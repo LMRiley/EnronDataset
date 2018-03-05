@@ -1,0 +1,139 @@
+ Employment Agreement
+
+ This Employment Agreement (“Agreement”), including the attached Exhibit “A,” is entered into between Enron North America Corp. (“ENA”), a Delaware corporation and subsidiary of Enron Corp. (“Enron”), and «EmployeeName» (“Employee”), to be effective as of «EffectiveDate» (the “Effective Date”).  ENA and Employee agree as follows:
+
+Article 1:  Employment, Compensation and Benefits
+
+1.1 Term and Position.  ENA agrees to employ Employee, and Employee agrees to be employed by ENA for the Term (the “Term”) described on Exhibit “A.”  ENA may assign Employee to a different position or modify Employee's duties and responsibilities.  
+
+1.2 Compensation.  Employee shall be paid as set forth on Exhibit “A.”  Employee's monthly base salary shall be paid in semimonthly installments in accordance with ENA's standard payroll practice, and (as with all other payments made to Employee by ENA) is subject to withholding of all federal, state, city, or other taxes as may be required by law.
+
+1.3 Benefits.  Employee shall be allowed to participate, on the same basis generally as other employees employed in the same or similar positions, in all general employee benefit plans and programs that ENA has made available to ENA’s employees on or after the Effective Date.  Nothing in this Agreement is to be construed to provide greater rights, participation, coverage, or benefits than provided to similarly-situated employees pursuant to the terms of such benefit plans and programs.  ENA is not obligated to institute, maintain, or refrain from changing, amending, or discontinuing any such benefit program or plan, so long as such actions are similarly applicable to covered employees generally.  Copies of benefit plans will be made available to Employee upon  request.
+
+Article 2:  Termination Before the Term Expires and Effects of Such Termination
+
+ 2.1. Termination By ENA.  ENA may terminate Employee's employment before the Term expires for the following reasons:
+
+a. Cause.  For “cause” upon the determination by ENA that “cause” exists to terminate the Employee.  “Cause” means (i) Employee's gross negligence, willful misconduct, or neglect in the performance of the duties and services as an ENA employee; (ii) Employee's final conviction of a felony by a trial court; (iii) Employee's breach of any provision of this Agreement; or (iv) Employee’s violation of any policy of ENA or Enron.  If ENA terminates Employee's employment for Cause, Employee shall be entitled only to his or her pro rata salary through the date of such termination, and all future compensation and benefits, other than benefits to which Employee is entitled under the terms of ENA or Enron compensation and/or benefit plans, shall cease.
+
+b. Involuntary Termination.  Involuntary termination at ENA’s option may occur for any reason whatsoever, including termination without cause, in the sole discretion of ENA. Upon an Involuntary Termination before the Term expires, Employee is entitled to receive the Monthly Base Salary on Exhibit “A,” payable in semi-monthly installments, as if Employee's employment (which ends on the date of Involuntary Termination) had continued for the full Term; provided, however, that if Employee accepts employment with a competitor as described in sections 3.4a., b., c., or d. of Article 3, ENA’s obligations to pay Employee pursuant to this section shall cease as of the first day of such employment by Employee.  Employee will not accrue or receive any vacation pay, benefits, or bonus during the Term following Involuntary Termination.
+
+c. Death/Disability.  Upon Employee's (i) death, or (ii) becoming incapacitated or disabled so as to entitle Employee to benefits under Enron's long-term disability plan, or (iii) becoming permanently and totally unable to perform Employee's duties for ENA as a result of any physical or mental impairment supported by a written opinion by a physician selected by ENA.  Upon termination of employment under this paragraph, Employee or Employee's heirs shall be entitled only to Employee's pro rata salary through the date of such termination, and all future compensation and benefits, other than benefits to which Employee is entitled under the terms of ENA or Enron compensation and/or benefit plans, shall cease.
+
+2.2 Termination By Employee.  Employee may terminate the employment relationship before the Term expires for the following reasons:
+
+  a. Breach by ENA.  A material breach by ENA of any material provision of this Agreement which remains uncorrected for 30 days following Employee’s written notice to ENA of such breach.  Upon such a termination, Employee shall be entitled to receive the Monthly Base Salary on Exhibit “A” as if Employee’s employment had continued for the full Term.
+
+  b. Voluntary Termination.  For any other reason whatsoever, in Employee’s sole discretion.  Upon a Voluntary Termination before the Term expires, all of Employee’s future compensation and benefits, other than benefits to which Employee is entitled under the terms of ENA or Enron compensation and/or benefit plans, shall cease as of the date of termination, and Employee shall be entitled only to pro rata salary through the termination date.
+
+2.3 Offset.  In all cases, the compensation and benefits payable to Employee under this Agreement upon termination of employment shall be offset by any amounts to which Employee otherwise may be entitled under any benefit plans, severance plans, voluntary payments, and policies of ENA, Enron, or their affiliates, or amounts (including the value of ENA’s property) that Employee owes to ENA.
+
+2.4 Certain Obligations Continue.  Neither termination of employment nor expiration of the Term terminates the continuing obligations of this Agreement, including obligations under Articles 3 and 4.1.
+
+2.5 Employment Beyond Term.  Should Employee remain employed by ENA after the Term expires, such employment shall convert to an employment-at-will relationship, terminable at any time by either ENA or Employee for any reason whatsoever, with or without cause.
+
+Article 3:  Confidential Information; Post-Employment Obligations
+
+ 3.1 This Agreement.  The terms of this Agreement constitute confidential information, which Employee shall not disclose to anyone other than Employee’s spouse, attorneys, tax advisors, or as required by law. Disclosure of these terms is a material breach of this Agreement and could subject Employee to disciplinary action.
+3.2 ENA Property.  All written materials, records, data, and other documents prepared or possessed by Employee during Employee's employment by ENA are ENA property.  All information, ideas, concepts, improvements, discoveries, and inventions that are conceived, made, developed, or acquired by Employee individually or in conjunction with others during Employee's employment (whether during business hours and whether on ENA's premises or otherwise) which relate to ENA's business, products, or services are ENA’s sole and exclusive property. All memoranda, notes, records, files, correspondence, drawings, manuals, models, specifications, computer programs, maps, and all other documents, data, or materials of any type embodying such information, ideas, concepts, improvements, discoveries, and inventions are ENA’s property.  At the termination of Employee’s employment with ENA for any reason, Employee shall return all of ENA’s documents, data, or other ENA property to ENA.
+
+3.3 Confidential Information; Non-Disclosure.  Employee acknowledges that the business of ENA, Enron, and their affiliates is highly competitive and that ENA has agreed to provide and immediately will provide Employee with access to Confidential Information relating to the business of ENA, Enron, and their affiliates.  “Confidential Information” means and includes ENA’s confidential and/or proprietary information and/or trade secrets that have been developed or used and/or will be developed and that cannot be obtained readily by third parties from outside sources.  Confidential Information includes, by way of example and without limitation, the following: information regarding customers, employees, contractors, and the industry not generally known to the public; strategies, methods, books, records, and documents; technical information concerning products, equipment, services, and processes; procurement procedures and pricing techniques; the names of and other information concerning customers, investors, and business affiliates (such as contact name, service provided, pricing for that customer, type and amount of services used, credit and financial data, and/or other information relating to ENA’s relationship with that customer); pricing strategies and price curves; positions; plans and strategies for expansion or acquisitions; budgets; customer lists; research; weather data; financial and sales data; trading methodologies and terms; evaluations, opinions, and interpretations of information and data; marketing and merchandising techniques; prospective customers’ names and marks; grids and maps; electronic databases; models; specifications; computer programs; internal business records; contracts benefiting or obligating ENA; bids or proposals submitted to any third party; technologies and methods; training methods and training processes; organizational structure; personnel information, including salaries of personnel; payment amounts or rates paid to consultants or other service providers; and other such confidential or proprietary information.  Employee acknowledges that this Confidential Information constitutes a valuable, special, and unique asset used by ENA, Enron, or their affiliates in their businesses to obtain a competitive advantage over their competitors.  Employee further acknowledges that protection of such Confidential Information against unauthorized disclosure and use is of critical importance to ENA, Enron, and their affiliates in maintaining their competitive position.  Employee also will have access to, or knowledge of, Confidential Information of third parties, such as actual and potential customers, suppliers, partners, joint venturers, investors, financing sources and the like, of ENA, Enron, and their affiliates.  ENA also agrees to provide Employee with immediate access to Confidential Information and specialized training regarding ENA’s methodologies and business strategies, which will enable Employee to perform his or her job at ENA.
+
+Employee agrees that Employee will not, at any time during or after Employee’s employment with ENA, make any unauthorized disclosure of any Confidential Information or specialized training of ENA, Enron, or their affiliates, or make any use thereof, except in the carrying out of his or her employment responsibilities hereunder.  Employee also agrees to preserve and protect the confidentiality of third party Confidential Information to the same extent, and on the same basis, as ENA's Confidential Information.  
+
+3.4 Non-Competition Obligations.  ENA agrees to and shall provide Employee with immediate access to Confidential Information. Ancillary to the rights provided to Employee following Involuntary Termination, ENA’s provision of Confidential Information and specialized training to Employee, and Employee’s agreement not to disclose Confidential Information, and in order to protect the Confidential Information described  above, ENA and Employee agree to the following non-competition provisions.  Employee agrees that during the Period of Post-Employment Non-Competition Obligations defined in Exhibit “A,” Employee will not, directly or indirectly, for Employee or for others, in the Geographic Region of Responsibility described on Exhibit “A” (or, if Employee’s Geographic Region has changed, in any and all geographic regions in which Employee has worked during the 12-month period immediately preceding Employee’s termination of Employment):
+
+  a. engage in the business of buying, selling, trading, structuring, or executing transactions in commodities, assets, or products in which ENA is doing business, has plans to engage in business, or has engaged in business in the preceding 12-month period, including, but not limited to, gas, electricity, coal, chilled water, clean fuel, liquids, emissions, petrochemicals, energy assets, transmission capacity, paper, pulp, packaging, communications, metals, weather products, electronic commerce (including business-to-business electronic commerce), “click trading,” bandwidth communications, interest rates, credit, currencies, securities, or other commodities (including, without limitation, other energy commodities), or any futures, derivatives, or equities related to any of the foregoing, whether at wholesale or retail, or the development of systems, information technology, accounting, or risk management with respect to any of the foregoing;
+
+ b. engage in other types of business performed by ENA, including the acquiring or disposing of assets or equity investments or providing or raising capital, through loans, equity, joint ventures, partnerships, working interests, production payments, credit or similar arrangements into products, commodities, futures, derivatives, or other items in which ENA currently is engaging in business, has plans to engage in business, or has engaged in business in the preceding 12-month period;
+
+ c. engage in activities relating to Enron’s business not described in parts a and b of this Article 3.4, to the extent that Employee has knowledge or information about such activities; or
+
+d. render advice or services to, or otherwise assist, any other person, association or entity in the business of a, b, or c above.
+
+Employee understands that the foregoing restrictions may limit his or her ability to engage in certain businesses in the geographic region and during the period provided for above, but acknowledges that these restrictions are necessary to protect the Confidential Information ENA has provided to Employee.
+
+
+Non-Solicitation of Customers.  For the Period of Non-Solicitation of Customers described on Exhibit “A,” Employee will not call on, service, or solicit competing business from customers of ENA, Enron, or their affiliates whom that Employee, within the previous twenty-four (24) months, (i) had or made contact with, or (ii) had access to information and files about.
+
+
+ 3.6 Non-Solicitation of Employees.  During Employee’s employment, and for a period of twelve (12) months following the termination of employment for any reason, Employee will not, either directly or indirectly, call on, solicit, or induce any other employee or officer of ENA, Enron, or their affiliates whom Employee had contact with, knowledge of, or association with in the course of employment with ENA to terminate his or her employment, and will not assist any other person or entity in such a solicitation.
+
+ 3.7 Early Resolution Conference/Arbitration.  The parties are entering into this Agreement with the express understanding that this Agreement is clear and fully enforceable as written.  If Employee ever decides to contend that any restriction on activities imposed by this Agreement no longer is enforceable as written or does not apply to an activity Employee intends to engage, Employee first will notify ENA’s Chairman in writing and meet with a company representative at least fourteen (14) days before engaging in any activity that foreseeably could fall within the questioned restriction to discuss resolution of such claims (an “Early Resolution Conference”).  Should the parties not be able to resolve disputes at the Early Resolution Conference, the parties agree to use confidential, binding arbitration to resolve the disputes.  The arbitration shall be conducted in accordance with the Commercial Arbitration Rules of the American Arbitration Association before an arbitrator licensed to practice law in Texas.  Either party may seek a temporary restraining order, injunction, specific performance, or other equitable relief regarding the provisions of this Section if the other party fails to comply with obligations stated herein.  The parties’ agreement to arbitrate applies only to the matters subject to an Early Resolution Conference.
+
+ 3.8 Warranty and Indemnification.  Employee warrants that Employee is not a party to any restrictive agreement limiting Employee’s activities in his/her employment by ENA.  Employee further warrants that at the time of the signing of this Agreement, Employee knows of no written or oral contract or of any other impediment that would inhibit or prohibit employment with ENA, and that Employee will not knowingly use any trade secret, confidential information, or other intellectual property right of any other party in the performance of Employee’s duties hereunder.  Employee shall hold ENA harmless from any and all suits and claims arising out of any breach of such restrictive agreement or contracts.
+
+Article 4:  Miscellaneous
+
+4.1 Statements About ENA.  Employee shall refrain, both during and after his or her employment, from publishing any oral or written statements about ENA, Enron, any of their subsidiaries or affiliates, or any of such entities' officers, employees, agents, or representatives that are disparaging, slanderous, libelous, or defamatory; or that disclose private or confidential information about their business affairs; or that constitute an intrusion into their seclusion or private lives; or that give rise to unreasonable publicity about their private lives; or that place them in a false light before the public; or that constitute a misappropriation of their name or likeness.
+
+4.2 Notices.  Notices and all other communications shall be in writing and shall be deemed to have been duly given when personally delivered or when mailed by United States registered or certified mail.  Notices to ENA shall be sent to Enron North America Corp., 1400 Smith Street, Houston, Texas 77002, Attention:  Chairman, with a copy to: Enron Corp., 1400 Smith Street, Houston, Texas 77002,  Attention:  Corporate Secretary.  Notices and communications to Employee shall be sent to the address Employee most recently provided to ENA.
+
+ 4.3 No Waiver.  Other than as described in Section 2.2 a, no failure by either party at any time to give notice of any breach by the other party of, or to require compliance with, any condition or provision of this Agreement shall be deemed a waiver of any provisions or conditions of this Agreement.
+
+ 4.4 Mediation.  If a dispute arises out of or related to Employee’s employment with ENA, other than a dispute regarding Employee's obligations under Articles 3 and 4.1 of this Agreement, and if the dispute cannot be settled through direct discussions, then ENA and Employee agree to try to settle the dispute in an amicable manner by confidential mediation before having recourse to any other proceeding or forum.
+
+ 4.5 Venue/Jurisdictions.  This Agreement shall be governed by Texas law.  Any litigation that may be brought by either party involving the enforcement of this Agreement or the rights, duties, or obligations of this Agreement, shall be brought exclusively in the State or federal courts sitting in Houston, Harris County, Texas.
+
+ 4.6 Assignment.  This Agreement shall be binding upon and inure to the benefit of ENA and any other person, association, or entity that may acquire or succeed to all or substantially all of the business or assets of ENA.  ENA may assign this Agreement to any affiliate or other entity.  Employee's rights and obligations under this Agreement are personal, and they shall not be assigned or transferred without ENA’s prior written consent.
+
+
+Other Agreements.  Other agreements exist between ENA and Employee relating to the employment relationship (e.g., obligations contained in Enron’s Conduct of Business Affairs booklet and benefit plans).  In addition, Employee signed Agreement Type “B” on ______________, 2000, and that Agreement is incorporated by reference.  This Agreement replaces and merges other, previous agreements and discussions pertaining to the nature of, term, and termination of  Employee's employment relationship with ENA, and this Agreement constitutes the entire agreement of the parties with respect to such subject matters.  No representation, inducement, promise, or agreement has been made by either party with respect to such subject matters, and no agreement, statement, or promise relating to the employment of Employee by ENA that is not contained in this Agreement shall be valid or binding.  Any modification of this Agreement will be effective only if it is in writing and signed by each party.
+
+ 4.8 Invalidity.  Should any provision(s) in this Agreement be held by a court of competent jurisdiction to be invalid, void, or unenforceable, the remaining provisions shall be unaffected and shall continue in full force and effect, and the invalid, void or unenforceable provision(s) shall be deemed not to be part of this Agreement.
+
+ IN WITNESS WHEREOF, ENA and Employee have executed this Agreement in multiple originals to be effective on the first date of the Term.
+
+Enron North America Corp.              «EmployeeName»
+
+By:          
+ David Oxley   This ___ day of  _____________, 2000
+ Vice President
+ This ___ day of _______________, 2000
+
+Exhibit “A” to
+Employment Agreement Between
+Enron North America Corp.
+and «EmployeeName»
+
+Employee Name:  «EmployeeName»
+
+Term:    «Term»
+
+Position:   «Position»
+
+Location:   «Location»
+
+Monthly Base Salary:  Employee’s Monthly Base Salary shall be «DollarsPerMonth».
+
+Performance Bonus:  Employee may be eligible to participate in the Enron Corp. Annual Incentive Plan (“Plan”) or any appropriate replacement bonus plan of ENA.  All bonuses are discretionary and shall be paid in accordance with the terms and provisions of the Plan, a portion of which may be paid in cash and a portion of which may be paid in stock options and/or restricted stock. 
+
+    Employee’s annual bonus amounts under the Plan for calendar year «CalendarYear» (payable in «TargetBonusPdinYear», respectively) shall be based on an annual bonus target of «TargetBonus», provided that Enron meets its earnings targets and provided that Employee is rated within the top 25% of the performance criteria under ENA’s annual performance rating system or its equivalent for the calendar year in question.
+
+Signing Bonus:   ENA shall pay Employee a Signing Bonus in the amount of «SigningBonus» on the first regularly-scheduled payday following fifteen (15) business days after the signing of this Agreement by both parties.  If Employee voluntarily terminates his or her employment before the expiration of the Term, Employee must repay the entire Signing Bonus to ENA.
+
+Retention Bonus:  On «RetentionBonDate», ENA shall pay Employee a Retention Bonus in the amount of «RetentionBonus».  If Employee voluntarily terminates his or her employment within three (3) months after receipt of a Retention Bonus, Employee must repay the entire Retention Bonus to ENA.
+
+Grant Awards: Subject to and effective upon approval by the Administrative Committee of the Compensation and Management Development Committee of the Enron Corp. Board of Directors (the "Committee"), after the Agreement has been executed and becomes effective, Employee shall receive the grants described below.  The grants shall be made pursuant to the Enron Corp. 1994 Stock Plan (the “Stock Plan”) as determined by the Committee, and shall be in the form of written agreements approved by the Committee.  The terms of the grant agreements shall govern these grants.  The exercise price for the grants shall be determined according to the provisions of the Stock Plan, on the Date of Grant established by the Committee (“Date of Grant”).
+
+ Subject to the above, at a Committee meeting after __________, Employee shall be granted the following:  (1) a grant of Enron Corp. Common Stock options with a value of $_________ (the number of stock options shall be determined by the Committee, which will use the Enron Corp.-approved Black-Scholes valuation in effect on the date that the Committee approves the grant); and (2) a grant of Enron Corp. Restricted Stock having a value of $_________ on the Date of Grant.  The vesting schedule for these grants will be described in the grant agreements, which shall govern.
+
+Geographic Region «GeographicRegion»
+of Responsibility:
+
+
+Period of Post-Employment
+Non-Competition Obligations
+and Non-Solicitation of
+Customers:
+Employee’s obligations in paragraph 3.4, Non-Competition Obligations, and paragraph 3.5, Non-Solicitation of Customers, shall survive the termination of employment and extend through the latest of the following dates, whichever is applicable:  (a) Twelve (12) months after Employee’s voluntary termination of employment if such termination occurs during the Term; or (b) Six (6) months after the last date of Employee’s employment with ENA in the event of an involuntary termination with or without cause during the Term; or (c) Three (3) months after Employee’s termination of employment for any reason if such termination occurs after the Term.
+
+
+Enron North America Corp.               «EmployeeName»
+
+
+
+By:          
+ David Oxley   This ___ day of  _____________, 2000
+ Vice President
+ This ___ day of _______________, 2000
