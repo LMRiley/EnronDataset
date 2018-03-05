@@ -1,0 +1,126 @@
+Interties and Path Transfer Ratings 
+TTC HE 0100 HE 0200 HE 0300 HE 0400 HE 0500 HE 0600 HE 0700 HE 0800 HE 0900 HE 1000 HE 1100 HE 1200 HE 1300 HE 1400 HE 1500 HE 1600 HE 1700 HE 1800 HE 1900 HE 2000 HE 2100 HE 2200 HE 2300 HE 2400 HE 2500 
+Path Name 
+Thursday, 08/31/2000 
+Intertie                                                                                
+8/29/00 3:21:58 PM 
+Run Date: 
+-4200 
+Scheduling Limit North to South                    
+Path 66                                                     
+-4600     -4200             
+-4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200    -4200       0 
+COI - South to North                              
+Path 66                                                      
+3675                                                                                0 
+ISO Share North to South (PNOB)                                                                              
+-1916                                                                                
+0 
+ISO Share South to North (PNOB)                                                                               
+1929                                                                                0 
+-2810 
+Midway to Los Banos South to North                
+Path 15                                                     
+-3449     -2800             
+-2810    -2810    -2810    -2810    -2800    -2580    -2760    -2760    -2720    -2700    -2680    -2680    -2680    -2680    -2680    -2680    -2680    -2680    -2510    -2520    -2520    -2570       0 
+Midway to Los Banos North to South                
+Path 15                                                      
+1275                                                                                0 
+Midway-Vincent South To North                    
+Path 26                                                     
+-3000                                                                                
+0 
+Midway-Vincent North to South                     
+Path 26                                                      
+3000                                                                                0 
+Sylmar Tie - In                                   
+Path 41                                                     
+-1200                                                                                
+0 
+Sylmar Tie - Out                                  
+Path 41                                                      
+1200                                                                                0 
+Cascade Tie - In                                  
+Path 25                                                      -80                                                                                0 
+Cascade Tie - Out                                
+Path 25                                                       30                                                                                0 
+Summit Tie - In                                   
+Path 24                                                      
+-120                                                                                
+-115     -115      -75      -75      -75      -95      -75      -75      -75                                                             0 
+Summit Tie - Out                                 
+Path 24                                                      100                                                                                0 
+Inyo Tie - In                                     
+Path 60                                                      -56                                                                                0 
+Inyo Tie - Out                                    
+Path 60                                                       56                                                                                0 
+Silver Peak Tie - In                                
+Path 52                                                      -17                                                                                0 
+Silver Peak Tie - Out                              
+Path 52                                                       17                                                                                0 
+Victorville Tie - In                                 
+Path 61                                                     
+-1950                                                                                
+0 
+Victorville Tie - Out                               
+Path 61                                                      900                                                                                0 
+IID/SCE-Devers-Mirage 230kv Tie-In                 
+Path 42                                                      
+-600                                                                                0 
+IID/SCE-Devers-Mirage 230kv Tie-Out                
+Path 42                                                      100                                                                                0 
+Blythe Tie - In                                    
+Path 59                                                      -72                                                                                0 
+Blythe Tie - Out                                  
+Path 59                                                       72                                                                                0 
+Parker Tie - In                                    MWD Gene-WALC 230 kV                                       -60                                                                                0 
+Parker Tie - Out                                  MWD Gene-WALC 230 kV                                        60                                                                                0 
+Mccullough Tie - In                               
+Path 62                                                     
+-2958                                                                                
+0 
+Mccullough Tie - Out                              
+Path 62                                                      
+2958                                                                                0 
+Mead Tie In                                      
+Path 58                                                     
+-1460                                                                                
+0 
+Mead Tie Out                                    
+Path 58                                                      
+1460                                                                                0 
+Laughlin Tie - Out                                
+Mohave 500 kV Tie                                             
+222                                                                                0 
+Eldorado Tie In                                  
+Eldorado-Moenkopi 500kV                                      
+-1555                                                                                
+0 
+Eldorado Tie Out                                 
+Eldorado-Moenkopi 500kV                                       
+1555                                                                                0 
+Palo Verde Tie - In                                
+Dev-PV and SWPL                                            
+-2823                                                                                
+0 
+Palo Verde Tie - Out                              
+Devers-Palo Verde 500kV                                       
+1550                                                                                0 
+North Gila Bank 4 - In                             
+North Gila Bank 4                                              -240                                                                                0 
+North Gila Bank 4 - Out                            
+North Gila Bank 4                                              240                                                                                0 
+IID/SDGE-El Centro Tie - In                         TL 230S                                                     
+-225                                                                                0 
+IID/SDGE-El Centro Tie - Out                       TL 230S                                                      
+225                                                                                0 
+CFE Tijuana/La Rosita Tie - In                      TL 23050 & TL 23040                                          
+-408                                                                                0 
+CFE Tijuana/La Rosita Tie - Out                     TL 23050 & TL 23040                                           
+408                                                                                0 
+COI: Rated at -4200/3675 (COI - North to South 4200, Per Summer T-116 with Northern Calif. Hydro @ 90% & Midpoint-Summer Lake E>W Flows Greater Than 400mw From 5/23/00                                                                                
+@ HE0900 to 10/31/00 @ HE2400 
+NOB: Rated at -1916/1929PDCI North to South (TNOB) 2871, PDCI South to North (TNOB) 2858) Per Summer T-116 with Northern Cailf. Hydro @ 90% & Midpoint-Summer E>W 
+Flows Greater Than 400mw From 5/23/00 @ HE0900 to 10/31/00 @ HE2400 
+PATH15: Rated at N>S 1275; S>N Based on anticipated IRAS & pump load and medium & high Gate's Substation temperatures. 
+SUMMIT: E>W Rating based on anticipated load and generation patterns. 

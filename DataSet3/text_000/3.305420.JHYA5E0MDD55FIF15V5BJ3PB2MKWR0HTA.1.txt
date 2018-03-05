@@ -1,0 +1,7 @@
+Analysis of the June 12 through June 16 Heat Wave
+
+June 13 – The low PX price and high ancillary services and real time prices are indicative of the IOU’s under-scheduling their load. By not scheduling in the PX day-ahead market, they managed to keep the PX price low. The generators had all scheduled into the day ahead market, but the lack of load kept prices in that market down. When huge amounts of load showed up in the real time market, ancillary service and ex-post energy prices soared. 
+
+June 14 – 15 – The system is under stress. On these 2 days we have strong PX, ancillary service, and ex-post prices. The generators have followed the load into the real time market, but since the system is under stress, all prices are high.
+
+June 16 – The strong PX price and low ancillary service and real time prices indicate that the load stayed in the day-ahead market, and did not show up in real time. The generators followed the load one too many days, and they paid by collecting low ex-post and ancillary service prices.  

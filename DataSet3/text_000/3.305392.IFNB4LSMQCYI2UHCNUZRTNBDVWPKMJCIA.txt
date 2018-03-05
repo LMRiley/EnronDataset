@@ -1,0 +1,43 @@
+Date: Mon, 31 Jul 2000 09:05:00 -0700 (PDT)
+From: Robert Badeer
+To: Jeff Dasovich
+Cc: Tim Belden, Jeff Richter
+Subject: information from iso
+X-SDOC: 1451390
+X-ZLID: zl-edrm-enron-v2-badeer-r-1283.eml
+
+Jeff,
+ Tim told me to put together a list of inormation we would want from the ISO. 
+As a general rule, we want all information released. Here are some of the 
+highlights:
+
+1.  ETC schedules on each transmission line (both DA and HA). We want to see 
+the ETC schedules at the same time they are submitted to the ISO on the 
+following paths:
+ a. path 15
+ b. path 26
+ c. nw1
+ d. nw3
+ e. az2
+ f. az3
+ g. lc1
+
+2. Actual flows on each path. (real time flows)
+
+3. How many mw's get cut on each path DA? i.e. how many mw's are adjustment 
+bid out of the stack
+
+4. Intrazonal Cong
+ a. What paths have intra-zonal cong
+ b. How many mw's flow, how many get cut on a DA/HA basis
+
+5. BEEP stack
+
+6. All load and generation bids DA by SC
+
+7. Real time production from each plant
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********

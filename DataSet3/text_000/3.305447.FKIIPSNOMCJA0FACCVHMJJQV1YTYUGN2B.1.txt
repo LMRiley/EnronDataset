@@ -1,0 +1,79 @@
+INTER- SC TRADE ADJUSTMENT BID MARKET SIMULATION 
+KICKOFF CONFERENCE CALL 
+THURSDAY  August 31, 2:00- 3:00 p.m.
+Conference Number 1-888-837-2407
+Passcode 722248
+
+
+
+Agenda:
+
+Review Scope of Market Simulation 
+Create/Confirm List of Participants
+Obtain input for finalization of Market Simulation Plan Details
+
+Proposed Market Simulation Schedule Summary (Details to be sent out by 9/1/00 )
+
+Tuesday , September 5 SI Connectivity, Review detail/scenarios
+Wednesday, September 6 Submit DA schedules for TD 9/7/00
+  DA Preferred market run and published to PMI
+ (FIXED INTER-SC TRADES) w/ Assigned trading partners and scenarios
+
+Thursday, September 7 Submit DA schedules for TD 9/8/00
+  DA Preferred market run and published to PMI
+(GEN TRANSFERS WITH INTER-SC TRADE ADJ BIDS) w/ Assigned trading partners and scenarios
+
+Friday, September 8 Submit DA schedules for TD 9/9/00
+  DA Preferred market run and publish to PMI
+(LOAD TRANSFERS WITH INTER-SC TRADE ADJ BIDS) w/ Assigned trading partners and scenarios
+  
+  Submit DA schedules for TD 9/10/00
+ (Fixed Inter-SC, Gen Transfers, Load Transfers)
+
+DA Market Run to create default HA schedules for TD 9/11/00 
+  
+Second Week multiple trades with adjustment bids and return priorities. SC’s to create scenarios and set up trading partners.
+
+
+Monday, September 11 Review of previous weeks Market Simulation
+  Submit DA schedules for TD 9/12/00
+DA market run Preferred for TD 9/12/00 
+Submit DA Revised schedules for TD 9/12/00
+DA market run Revised Preferred and publish to PMI  
+
+  Review defaulted HA schedules 
+Submit changes to HA defaulted schedules and submit additional schedules for HE1500 by noon
+HE1500 HA Market run and publish to PMI
+  
+
+
+Tuesday, September 12 Review defaulted HA schedules 
+Submit changes to HA defaulted schedules and submit additional schedules for HE1500-1700 by noon
+HE1500-1700 HA Market run and publish to PMI
+
+Submit 24 Hrs of HA Schedules for 9/13/00
+
+
+Wednesday, September 13 Review HA Market run and Schedules published to
+  PMI.
+
+Submit changes to HA defaulted schedules and submit additional schedules for HE1500-1700 by noon
+HE1500-1700 HA Market run and publish to PMI
+     
+ 
+
+Thursday, September 14 Submit DA Schedules by 10 a.m.
+  Preferred DA Market run and publish to PMI
+  Open Revised Preferred Market
+  Submit DA Revised Schedules by 12 p.m.
+  Revised Preferred DA Market run and publish to
+  PMI 
+  
+Submit HA for HE1500-1700 by noon
+  HE1500-1700 HA Market run and publish to PMI
+
+
+Friday, September 15 Market Participant Review
+Wednesday, September 21 Conference call to review Market Simulation
+
+

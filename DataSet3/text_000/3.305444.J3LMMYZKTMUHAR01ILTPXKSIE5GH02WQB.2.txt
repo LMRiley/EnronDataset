@@ -1,0 +1,987 @@
+What To Do About Western Wholesale Markets?
+
+August 25, 2000
+Tim Belden
+Enron North America
+West Power
+
+2
+Summary
+High prices in peak periods are the result of scarcity and are necessary to incent needed generation investment
+California Retail/Wholesale Market Interaction
+Retail customers are benefiting from the low prices during shoulder months caused by wholesale competition
+The major problem is in the retail market where high peak period wholesale prices have not been mitigated by forward purchases 
+Underscheduling in forward market causes high demand and reliability problems during real time
+-2-
+
+3
+Summary (Continued) 
+Some wholesale market  remedies are necessary now
+The FERC should analyze whether there are Market Power Concerns Associated with Times of Scarcity and then determine appropriate level of Price Caps
+Publicize Market Information 
+Encourage structure/ technological innovation to enhance  demand side participation
+
+4
+Agenda
+Market Fundamentals Indicate Scarcity Exists
+Supply Side and Demand Side Economics
+Retail Design Issues
+Wholesale Market Remedies
+
+5
+Western Supply and Demand Fundamentals
+-3-
+
+6
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Northwest
+Rockies
+Southwest
+California
+WSCC
+WSCC Loads (GW)
+California is not an island and cannot develop a self-contained solution.
+5
+
+7
+WSCC Resources and Loads
+100
+110
+120
+130
+140
+150
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+1000's MW
+0%
+5%
+10%
+15%
+20%
+25%
+Available Resources
+Peak Load
+Reserve Margin
+Peak Load 
+Assumptions
+   
+2000 = 4%
+    2001 = 3%
+    2002 = 2%
+-11-
+Base data from WSCC.  Adjustments made by Enron based on verifiable data inaccuracies.
+
+8
+WSCC Load Growth
+65
+70
+75
+80
+85
+Jan-98
+Apr-98
+Jul-98
+Oct-98
+Jan-99
+Apr-99
+Jul-99
+Oct-99
+Jan-00
+Apr-00
+10,000s MW
+-6%
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+Monthly Average Load
+Year on Year Load
+Growth
+-4-
+
+9
+California ISO Load Growth
+23,000
+24,000
+25,000
+26,000
+27,000
+28,000
+29,000
+30,000
+31,000
+Jul-99
+Aug-99
+Sep-99
+Oct-99
+Nov-99
+Dec-99
+Jan-00
+Feb-00
+Mar-00
+Apr-00
+May-00
+Jun-00
+Jul-00
+MW
+-6.00%
+-4.00%
+-2.00%
+0.00%
+2.00%
+4.00%
+6.00%
+8.00%
+10.00%
+12.00%
+14.00%
+Average Monthly Load
+Year on Year Growth
+Below Average Temp
+Above Average Temp
+-5-
+
+10
+Columbia River
+California
+2000
+93%
+94%
+1999
+116%
+108%
+1998
+98%
+153%
+1997
+152%
+84%
+1996
+138%
+129%
+ 
+-7-
+Volume Runoff Percent of Normal
+Has Recent Unusually Strong Hydro Fooled Us?
+
+11
+PNW Hydro Generation
+0
+5000
+10000
+15000
+20000
+25000
+1/1
+1/8
+1/15
+1/22
+1/29
+2/5
+2/12
+2/19
+2/26
+3/4
+3/11
+3/18
+3/25
+4/1
+4/8
+4/15
+4/22
+4/29
+5/6
+5/13
+5/20
+5/27
+6/3
+6/10
+MWh
+1999 Generation
+2000 Generation
+1999 Water Year 
+116% of Normal
+2000 Water Year 96%
+ of Normal
+Note: 
+ 
+California Hydro 108% of Normal in 1999 vs 94% in 2000  
+21
+
+12
+Pacific Northwest 2000 Hydro Production Relative to 1999
+-7,000
+-6,000
+-5,000
+-4,000
+-3,000
+-2,000
+-1,000
+0
+1,000
+2,000
+JAN
+FEB
+MAR
+APR
+MAY
+JUN
+JUL
+AUG
+Month
+Difference, MWa
+Estimated
+-8-
+
+13
+Summer
+2000
+  
+Summer
+2001
+  
+Summer
+2002
+  
+Northwest
+7
+760
+851
+California
+-0-
+1000
+2648
+Southwest / 
+Rockies
+908
+2390
+692
+Total
+  
+915
+  
+4150
+  
+4191
+  
+Estimated Load Growth
+(Assumes 3% Escalation)
+(3600)
+(3708)
+(3819)
+ 
+WSCC Capacity Additions
+-10-
+
+14
+In Sum, Scarcity is Real - Generation is Needed
+-11-
+Scarcity is real
+Energy prices driven  by scarcity
+New generation or demand-side resources are required
+
+15
+Current Supply/Demand Economics
+
+16
+Power Economics
+Power is a Bust and Boom Commodity -- Merchant Generators Lose Money in Some Years and Make it Up During Times of Scarcity
+California Demand Side Resources are Far More Expensive than Supply Side Resources
+Demand Side and Supply Side Resources Should Receive Symmetrical Treatment with Respect to Price Signals
+
+17
+Peaker Plant Economics
+
+
+
+
+-14-
+Technology:   GE LM 6000
+Fuel:      Natural Gas
+Heat Rate:    10,000 Btu/Kwh
+Capacity:    48 MW
+Capital Structure: 
+60% Debt @ 9%
+40% Equity @ 18%
+15 Year Amortization
+Total Cost to Build:  $27 million
+Annual Capital Recovery: $3.7 million
+Annual Fixed O&M:  $1.5 million
+Annual Total:   $5.2 million
+
+18
+Peaker Plant Cost-to-Build 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Capacity Factor
+$/MWh
+Capital Cost
+Energy Cost
+$35
+
+19
+LM6000 Annual Profit
+-5
+0
+5
+10
+15
+20
+1995
+1996
+1997
+1998
+1999
+2000
+Profit ($ millions)
+Actual   
+$250 Cap
+18% ROE
+-15-
+
+20
+LM6000: Cumulative After-tax Profit/Loss
+-20
+-15
+-10
+-5
+0
+1995
+1996
+1997
+1998
+1999
+2000
+After-tax P/L ($ millions)
+Actual   
+$250 Cap
+-16-
+
+21
+Baseload Plant Economics
+
+
+
+
+-17-
+Technology:   GE Frame 7FA Combined Cycle
+Fuel:      Natural Gas
+Heat Rate:    7,100 Btu/Kwh
+Capacity:    280 MW
+Capital Structure: 
+50% Debt @ 9%
+50% Equity @ 15%
+15 Year Amortization
+Total Cost to Build:  $180 million
+Annual Capital Recovery:    24 million
+Annual Fixed O&M:       3 million
+Annual Total:    $27 million
+
+22
+Combined Cycle Annual Profit
+-50
+0
+50
+100
+150
+1995
+1996
+1997
+1998
+1999
+2000
+Profit ($ millions)
+Actual   
+$250 Cap
+15% ROE
+-18-
+
+23
+Combined Cycle: Cumulative After-tax 
+Profit/Loss
+-100
+-50
+0
+1995
+1996
+1997
+1998
+1999
+2000
+After-tax P/L ($ 
+millions)
+Actual   
+$250 Cap
+-19-
+
+24
+Load Responsiveness
+-20-
+2700 MW of Load theoretically available under the Interruptible Tariffs
+New Load Management Programs Have Been Expensive and Small
+100 MW to 300 MW of Shared Savings with IOU’s When Prices Exceed $250/MWh
+230 MW in CAISO Participating Load Agreement with Capacity Costs of $750/MWh and Energy Costs Up to $750/MWh
+Seldom Used - Most Participants Already Under Interruptible Tariff
+Source:  ISO DMA August 10 Report
+
+25
+The ISO’s Demand Side Program Has Not Been Very Effective   
+The proponents of price caps claim that as soon as the demand side is "workably competitive" then there is no need for price caps
+But if ISO sets the caps too low it will not get demand response
+The utilities have up to 2700 MW of available interruptible load, yet only a small fraction responds when called (600 MW)
+Uncut loads willingly lose value of up to $1,500 per MWh  
+Thus, during times of scarcity, the value of energy is at least $1,500 per MWh
+
+26
+Price Controls Will Perpetuate Scarcity 
+-12-
+Power plants are needed; Demand is still not very price responsive 
+Operating costs of plants are increasing 
+Gas prices high
+Gas generally is on the Margin in WSCC (I.e., Gas-fired generation sets the electricity generating market price)
+Power plant economics will keep generators from investing in generation if they anticipate price cap
+In state and out of state generation will be incented to sell out of state
+
+27
+Price Controls are Detrimental to Investment and Other Markets
+-22-
+Merchant generation subject to volatile commodity prices -- caps will inhibit investment
+Creates asymmetry between load response and generation
+Suppliers will sell outside California where markets are more predictable and prices are higher.
+Because of the interdependent linkages in California’s electric market, cannot change one aspect of structure without impacting all others
+Uncertainty in the marketplace will dry up the growing forward markets
+
+28
+Retail Market Design Issues
+
+29
+Retail Issues
+SCE and PG&E Customers Receive No Price Signals Due to CTC Balancing Accounts.
+SDG&E Customers Entered Volatile Short Term Commodity Markets Without Knowing About Risk and Without SDG&E Hedging For Them.
+Limits on IOU Forward Hedging Forces Large Volumes Into Day Ahead and Real Time Markets Which Contributes to Volatility.
+CTC Recovery Mechanism Incents IOU’s to Take Large Volumes to Real Time Market.
+
+30
+Lack of IOU Hedging Has Distorted Price Impacts 
+The IOUs had a choice of buying their power in the PX Block Forward, PX Day Ahead, PX Day Of, and CAISO Ex Post
+Hedging limits prevented some purchases of forward energy 
+IOU claims notwithstanding, there have been significant opportunities to hedge forward prices
+~ 1800 MW in entire PX block forward for SP15 in June, 2000
+Only ~800 MW for SCE out of  2,200 MW authorized 
+Clear market signals to hedge
+Fear of prudence review kept IOUs from hedging the risk of day ahead and real time prices
+
+31
+June SP15 Block Forward Purchases vs. Power Prices 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+1/4/00
+1/18/00
+2/1/00
+2/15/00
+2/29/00
+3/14/00
+3/28/00
+4/11/00
+4/25/00
+5/9/00
+5/23/00
+Power Prices
+0.00
+1000.00
+2000.00
+3000.00
+4000.00
+5000.00
+6000.00
+7000.00
+8000.00
+MWh
+June PV Price
+June SP-15 Price
+BF Purchases
+22
+
+32
+Stranded Cost Recovery Incents IOUs to Underschedule in the Forward Market and Buy in the Spot Market
+CTC payments can theoretically be increased by underscheduling demand in the PX Day ahead markets
+But, underscheduling demand increases ISO prices and reduces reliability
+~ 30% of ISO load in real time market on 06/14/00
+Only 100 MW of blackouts--a remarkable achievement
+13
+
+33
+Gross Underscheduling of Load Is a Real Problem
+If all power scheduled in PX Day Ahead market, except for small imbalances, market should be in equilibrium:  PX DA, PX HA, ISO Ex Post
+0
+300
+600
+900
+1200
+1500
+0
+2
+4
+6
+8
+10
+Volume (GWh)
+PX and Expost Price ($/MWh)
+Competitive Market 
+Supply Curve
+Load
+Electricity Bill = 10GWh x 600$/MWh = $6.0 MM
+Market 
+Equilibrium
+14
+
+34
+Gross Underscheduling of Load Is a Real Problem
+In actual fact, there is an incentive to underschedule, but consequence is pressure on real time reliability as Ex Post load grows.
+0
+300
+600
+900
+1200
+1500
+0
+2
+4
+6
+8
+10
+Volume (GW)
+PX and Expost Price ($/MWh)
+Load to 
+Ex Post
+Savings from Underscheduling 
+Load
+
+Load to PX Day Ahead
+Electricity Bill = 8GWh x 400$/MWh + 2GWh x 600$/MWh = $4.4 MM
+400
+Underscheduling Value = $6.0 MM - $4.4 MM = $1.6 MM
+Arbitrary Limit Bid
+15
+
+35
+Gross Underscheduling of Load Is a Real Problem
+But when there is massive underscheduling in a tight supply market, the ISO may have to take drastic action.
+0
+300
+600
+900
+1200
+1500
+0
+2
+4
+6
+8
+10
+Volume (GW)
+PX and Expost Price ($/MWh)
+Cost 
+Savings
+Electricity Bill = 7GWh x 400$/MWh + 3GWh x 1500$/MWh 
+                     = $7.3 MM
+Underscheduling Value = $6 MM - $7.3 MM = -$1.3 MM
+Arbitrary Limit Bid
+(including replacement 
+reserves to sustain 
+reliability)
+Increasing load 
+to Ex Post
+16
+
+36
+Gross Underscheduling of Load Is a Real Problem
+And, when load is growing faster than forecasts, the consequences are amplified.
+0
+300
+600
+900
+1200
+1500
+0
+2
+4
+6
+8
+10
+Volume (GW)
+PX and Expost Price ($/MWh)
+Cost 
+Savings
+Electricity Bill = 7GWh x 400$/MWh + 4GWh x 1500$/MWh 
+                     = $8.8 MM
+Underscheduling Value = $9.4 MM - $8.8 MM = $0.6 MM
+Arbitrary Limit Bid
+(including replacement reserves 
+to sustain reliability)
+Increasing load 
+to Ex Post
+17
+
+37
+Gross Underscheduling of Load Is a Real Problem
+When price caps are reduced to $250/MWh in a scarce supply market, ISO may not be able to maintain reliability due to magnitude of Ex Post load.
+0
+300
+600
+900
+1200
+1500
+0
+2
+4
+6
+8
+10
+Volume (GW)
+PX and Ex 
+Post Price ($/MWh)
+Theoretical Savings
+Electricity Bill = 10GWh x 250$/MWh = $2.5 MM
+
+Theoretical Savings = $6.0 MM - $2.5 MM = $3.5 MM
+250
+Load to Ex Post
+Load to PX Day Ahead
+Limit Bid = 250 $/MWh
+Where will ISO get supply for Ex Post 
+load if external markets trade at 
+greater than $250/MWh? 
+18
+
+38
+Underscheduling’s Effects on Reliability Are Observable
+
+
+
+
+
+-12-
+Stage 1 Emergency
+In Anticipation of Low Reserves
+Users Asked to Voluntarily Reduce Consumption
+15 Times From May 22 to August 5
+Stage 2 Emergency
+Reserves Fall Below 5%
+2700 MW of Interruptible Load Curtailed
+9 Times From May 22 to August 5
+Stage 3 Emergency
+Reserves Fall Below 1.5%
+Firm Load Cut - Rolling Blackouts
+0 Times From May 22 to August 5
+
+39
+California should fix its retail problems first.
+Should remove barriers to hedging.
+Should systematically examine relationship between retail and wholesale market design.
+Knee-jerk reactions in wholesale markets will not solve the problem.
+Retail Design Flaws Are Largest Contributor to Problem
+
+40
+Wholesale Market Issues
+Analyze whether there are market power concerns associated with times of scarcity and then determine appropriate level of  price caps
+Publicize market information 
+Encourage structure/ technological innovation to enhance  demand side participation
+Don’t mistake San Diego’s failure to hedge as failures in the wholesale market
+Decide whether FERC has a role in the underscheduling issue: Are the California utilities exercising monopsony power by underscheduling load into the PX day ahead market? 
+19
+
+41
+ISO Should Do More Rigorous Market Power Analysis
+The Market Analysis Unit report and the UC Energy Institute Report wrongly uses pricing above short term marginal cost to conclude that there is market power  
+Some market power analysis failed to take into consideration changes in supply and demand like the decrease in hydro generation
+To distinguish market power from scarcity, FERC should instruct the ISO to use rigorous analytical measures to determine market power
+Under such measures Enron does not have market power
+
+42
+Market Power or Scarcity Rents?
+At points of scarcity (e.g., at Stage 2 when you’re getting low on reserves and you’re cutting load) marginal cost is no longer a reasonable price. 
+Rather when you reach scarcity you should price scarcity rents at the value of energy (e.g., $1,500 as illustrated in the interruptible market)
+
+43
+To Investigate the Source of High Prices FERC Should Review:
+High gas prices
+Below normal Hydro
+Lack of NOx credits
+Planned Outages and Forced Outages in June
+High demand
+Real Capacity Margins in Western Markets
+Relationship between Wholesale Market Design and Retail Market Design
+Relationship between California Market and Other Western Markets
+
+44
+To Investigate the Source of High Prices FERC Should Review (Continued)
+Were any generation plants off-line due to unplanned maintenance during Summer 2000? 
+Were other Western power markets prices higher (year-on-year)?
+What options did SDG&E have to "hedge" its retail rates?  
+What were prices in the CAL PX block forward market on Jan 15, 2000 and May 15, 2000?
+FERC and the  ISO should consider the regional impacts of any price caps implemented in California, such as prices not corresponding to flows
+
+45
+We Do Not Have All the Answers.  Why?
+ISO and PX have a monopoly on data.
+ISO and PX have monopoly on analysis of market power.
+Transparent markets are preferable to opaque markets.  Transparency requires data release.
+Open up the books for all to see.
+
+46
+Status of Data Release
+
+47
+ISO GENERATION
+Allocation*
+A
+RMR Generation
+B
+Day Ahead Generation
+C
+Day Ahead Ancillary Service Capacity
+D
+Hour Ahead Generation
+E
+Ancillary Service Hour Ahead Capacity
+F
+Expost Instructed Supplemental Generation
+G
+Unscheduled Generation
+H
+Expost Instructed Ancillary Service Generation
+I
+Outage/Deration
+J
+Idle
+*Actual Gen = A+B+D+F+G+H
+Physical Dimensions
+Unit
+Plant
+Load Zone
+Congestion Zone*
+System
+* Supply and Demand for Capacity, Generation, 
+     and Transmission are related at the Congestion 
+     Zone Level
+Data
+Awarded Price-Quantity
+Price Quantity Offer Curve
+0
+50
+100
+150
+200
+250
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+Hour of Day
+
+Capacity
+Outage
+Unscheduled Gen
+Expost Instructed A/S Gen
+Expost Instructed Sup
+Hour Ahead A/S Cap
+Hour Ahead Gen
+Day Ahead A/S Cap
+Day Ahead Gen
+RMR Gen
+
+48
+ISO GENERATION
+Allocation
+Unit
+Plant
+Load
+Cong
+System
+Unit
+Plant
+Load
+Cong
+System
+Zone
+Zone
+Zone
+Zone
+RMR Generation
+Day Ahead Generation
+Ancillary Service Capacity
+Hour Ahead Generation
+Ancillary Service Hour Ahead Capacity
+Expost Instructed Supplemental Generation
+Unscheduled Generation
+Expost Instructed Ancillary Service Generation
+Outage/Deration
+Idle
+Possible
+Released
+Partially Released
+Awarded Price-Quantity
+Price-Quantity Offer Curve
+
+49
+ISO LOAD
+Allocation
+Day Ahead Load
+Day Ahead Anc. Serv. Capacity Requirement
+Hour Ahead Load
+Anc. Serv. Hour Ahead Capacity Requirement
+Expost Load
+Actual Load
+Physical Dimensions
+Load Zone * Scheduling Coordinator
+Load Zone
+Cong Zone
+System
+* Supply and Demand for Capacity, Generation, 
+     and Transmission are related at the Congestion 
+     Zone Level
+Data
+Awarded Price-Quantity
+Price Quantity Offer Curve
+
+50
+ISO LOAD
+Allocation
+Load
+Load
+Cong
+System
+Load
+Load
+Cong
+System
+Zone 
+Zone
+Zone
+Zone 
+Zone
+Zone
+& SC
+& SC
+Day Ahead Load
+Day Ahead Anc. Serv. Capacity Requirement
+Hour Ahead Load
+Anc. Serv. Hour Ahead Capacity Requirement
+Expost Load
+Actual Load
+Possible
+Released
+Partially Released
+Awarded Price-Quantity
+Price-Quantity Offer Curve
+
+51
+ISO TRANSMISSION
+Allocation
+Day Ahead Flow
+Hour Ahead Flow
+Expost Flow
+Actual Flow
+Total Day Ahead Capacity
+Total Hour Ahead Capacity
+Total Expost Capacity
+Available Day Ahead Capacity
+Available Hour Ahead Capacity
+Available Expost Capacity
+Physical Dimensions
+Congestion Zone Interface*
+System
+* Supply and Demand for Capacity, Generation, 
+     and Transmission are related at the Congestion 
+     Zone Level
+Data
+Awarded Price-Quantity
+Price Quantity Offer Curve
+
+52
+ISO TRANSMISSION
+Allocation
+Zone
+System
+Zone
+System
+Interface
+Interface
+Day Ahead Flow
+Hour Ahead Flow
+Expost Flow
+Actual Flow
+Total Day Ahead Capacity
+Total Hour Ahead Capacity
+Total Expost Capacity
+Available Day Ahead Capacity
+Available Hour Ahead Capacity
+Available Expost Capacity
+Possible
+Released
+Partially Released
+Awarded Price-Quantity
+Price-Quantity Offer Curve
+

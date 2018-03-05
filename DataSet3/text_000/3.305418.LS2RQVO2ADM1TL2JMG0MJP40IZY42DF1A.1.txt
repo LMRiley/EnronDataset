@@ -1,0 +1,618 @@
+High Probability WSCC Projects	
+Report Date	18-May-00	
+Project	State	On-Line Date	Capacity	Region	Cumulative Capacity	
+Person	NM	5/1/00	140	DSW	140	
+Manchief (Brush)	CO	6/1/00	265	Rockies	405	
+Foote Creek 4	WY	8/1/00	4 Wind	PNW	409.25	
+Valmont Repowering	CO	6/1/00	11 Incremental	Rockies	420 Incremental	
+Arapahoe Repowering	CO	6/1/00	115 Incremental	Rockies	535.25	
+South Point Power Plant [Mojave]	AZ	5/1/01	545	DSW	1105.25	
+Griffith Energy Project	AZ	5/1/01	520	DSW	1625.25	
+Desert Basin Gnrtng	AZ	6/1/01	600	DSW	2225.25	
+Sutter	CA	9/1/01	500	NP15	2725.25	
+Klamath Cogen	OR	7/1/01	500	PNW	3225.25	
+West Phoenix 4 - Repower	AZ	8/1/01	70 Incremental	DSW	3295.25	
+Los Medanos (Pittsburg)	CA	8/1/01	500	NP15	3795.25	
+La Paloma	CA	9/1/01	1048	ZP26	4843.25	
+Rathdrum	ID	9/1/01	270	PNW	5113.25	
+Vestas	OR	12/1/01	25 Wind	PNW	560.25	
+West Phoenix 5	AZ	12/1/01	500	DSW	5613.25	
+Everett Delta	WA	12/1/01	248	PNW	5861.25	
+Coyote Springs Phase 2	OR	3/1/02	231	PNW	6092.25	
+Delta Energy	CA	4/1/02	880	NP15	6972.25	
+Powhatan 48	CO	5/1/02	150	Rockies	7122.25	
+Hermiston	OR	5/1/02	536	PNW	7658.25	
+Las Vegas CoGen Expansion	NV	6/1/02	220 Incremental	DSW	7878.25	
+Little Sand Dam	OR	6/1/03	-11 Hydro	PNW	7867 Hydro	
+Chehalis Power	WA	6/1/03	460	PNW	8327.25	
+Sumas Energy 2	WA	6/1/03	660	PNW	8987.25	
+Wygen 1	WY	12/1/03	80	PNW	9067.25	
+Two Elk CT Waste	WY	6/1/04	240	PNW	9307.25	New Generation Additions	
+1- Under Construction or Completed; 2 - Regulatory Approval Received; 3 - Application under review; 4-Starting app process; 5- Press Release only; 6 - Word of mouth	
+Region	1	2	3	4	5	6	
+NP15	1,000	880	2,720	1,179	
+SP15	720	3,136	1,200	
+ZP26	1,048	1,570	1,530	
+AZ	1565	660	3,120	825	5,961	
+NV	1280	1,880	500	
+NM	140	1,407	
+CO	276	550	160	350	160	200	
+OR	525	756	1345	45	
+WA	248	2235	660	1100	
+ID, MT, UT, WY	430	244	485	2160	
+5,232	6,045	11,366	7,949	12,913	745	
+NP15	ZP26	SP15	NW	SW	RO	
+Jun-00	4	140	391	
+Jul-00	4	140	391	500	500	880	
+Aug-00	4	140	391	
+Sep-00	4	140	391	
+Oct-00	4	140	391	
+Nov-00	4	140	391	
+Dec-00	4	140	391	
+Jan-01	4	140	391	
+Feb-01	4	140	391	
+Mar-01	4	140	391	
+Apr-01	4	140	391	
+May-01	4	1205	391	
+Jun-01	4	1805	391	
+Jul-01	504	1805	391	
+Aug-01	570	504	1875	391	
+Sep-01	1070	1048	774	1875	391	
+Oct-01	1070	1048	774	1875	391	
+Nov-01	1070	1048	774	1875	391	
+Dec-01	1070	1048	1047	2375	391	
+Jan-02	1070	1048	1047	2375	391	
+Feb-02	1070	1048	1047	2375	391	
+Mar-02	1070	1048	1278	2375	391	
+Apr-02	1950	1048	1278	2375	391	
+May-02	1950	1048	1810	2375	541	
+Jun-02	1880	1048	0	1810	2595	541	
+Jul-02	1880	1048	0	2346	2595	541	
+Aug-02	1880	1048	0	2346	2595	541	
+Sep-02	1880	1048	0	2346	2595	541	
+Oct-02	1880	1048	0	2346	2595	541	
+Nov-02	1880	1048	0	2346	2595	541	
+Dec-02	1880	1048	0	2346	2595	541	NP15
+ZP26
+SP15
+NW
+SW
+RO
+Cumulative MW Capacity
+New Generation
+36678
+36738
+36769
+36799
+36830
+36860
+36891
+36922
+36950
+36981
+37011
+37042
+37072
+37103
+37134
+37164
+37195
+37225
+37256
+37287
+37315
+37346
+37376
+37407
+Jun-02
+Jul-02
+Aug-02
+Sep-02
+Oct-02
+Nov-02
+Dec-02
+
+
+-- Calpine recently unveiled its plans to build, own and operate	
+the Calgary Energy Centre. The facility will be the first	
+independent power project announced in the Calgary area, and	
+represents Calpine's first investment in the Canadian power	
+market. The facility will help increase security of	
+electricity supply for Alberta and Calgary and will have the	
+ability to produce an additional 50 megawatts of electricity	
+during peak power demand periods. 	
+MW	Year	
+Calpine	250	2003	Calgary	NG	
+Vancouver Island, Elk Falls, Port Albeni	1- Under Construction or Completed; 2 - Regulatory Approval Received; 3 - Application under review; 4-Starting app process; 5- Press Release only; 6 - Word of mouth	
+Under Construction	Contact:	Mignon Marks (916) 654-4732	PIRA Jimmy Kow (212) 686-6808 PIRA updates weekly compares to WSCC guide. George Hopley (Enron) used to maintain this while working at PIRA	
+Plant	Region	Status	Capacity	Possible Permit Date	Possible On-line Date	Source 1	Source 2	Source 3	Applicant	Type, Fuel Source and Size	Location	Estimated Cost	Nature of Location, "green field" or existing site	Intended Grid Tie-In and New Linear Facilities	Natural Gas Supplier and New Linear Facilities	Turbine Specs 	Air District, Air Pollution Control Technology and Offset Strategy	Cooling Technology, Source of Water (if water cooled), and New Linear Facilities	Status	Date of Data Adequacy	Actual or Projected Date of Certification (13+ months from Data Adequacy date)	Projected Date of Operation (24 months from Certification date)	Steve Roeder San Joaquin 559-230-5888, SDGE AQ (858) 694-3307, Kenneth Lim (415) 749-4710	
+Sutter	NP15	1	  500 	Apr-99	Sep-01	CEC	RDI	PIRA	Calpine Corporation	Natural Gas Combined Cycle 500MW	Yuba City area, Sutter Co.	$250 - $285 million	16 acres of "green field," adjacent to cogeneration power plant	WAPA transmission system, 4-mile 230 kV overhead line, not ISO operated	PG&E, 14.9 mile pipeline	2 - 170MW Westinghouse 501 FC gas  turbine/generators, 2 heat recovery steam generators (HRSG), 1 - 160 MW steam turbine/generator	Feather River AQMD Dry Low NOx, SCR, and oxidation catalyst       2.5 NOx	Dry air condenser	approved 	1/21/1998	4/14/1999	Construction halted, pending review by US EPA Appeals Board If project can begin on April-00, could be operating by April-02.  The Sacramento Municipal Utilities District has signed its first merchant plant contract with a five-year deal to buy 150 MW from Calpine Corp.'s natural gas-fired Sutter Power Plant, under construction near Yuba City north of Sacramento. 7/10/2000 plant currently on schedule and under construction	
+Los Medanos (Pittsburg)	NP15	1	  500 	Aug-99	Jul-01	CEC	RDI	PIRA	Pittsburg District Energy Facility LLC (established by Enron Capital and Trade Resources Corp.)	Natural Gas-Fired, Combined Cycle Cogeneration 500MW, steam to USS-POSCO	Pittsburg, Contra Costa Co.	$300 million	12 acres of industrial site (USS-Posco Industries)	PG&E switchyard at the Pittsburg Power Plant,  2 mile 115kV	PG&E, 3.6 mile pipeline	2 "F" class gas turbine/generators, heat recovery steam generator units, 1 steam turbine generator	BAAQMD SCR and Dry Low NOx	Delta Diablo Sanitation District - disinfected tertiary reclaimed water (128,000 gpm), 2 mile pipeline	approved	7/29/1998	8/17/1999	EPA appeal was quickly denied	
+La Paloma	ZP26	1	  1,048 	Oct-99	Aug-01	CEC	RDI	PIRA	La Paloma Generating Company LLC (formed by PG&E Generating Co.)	Natural Gas Combined Cycle 1048MW	McKittrick, Kern Co.	$500 million	23 acres in an oil field production area	PG&E Midway Substation, 14.2 mile 230kV line	Interstate pipeline owned jointly by Kern River National Gas Transmission Company and Mojave Pipeline Company, 370 feet	4 - 262 MW "power islands," each with 1 gas turbine generator (ABB Model GT 24) , 1 HRSG and 1 steam turbine	San Joaquin Valley Unified APCD SCR on 3, "SCONOx" on 1 CT	Fresh water cooled, Water from CA Aqueduct supplied from West Kern Water Dist., 5,500 AF/yr., 8 mile pipeline	approved	8/26/1998	10/6/1999	11/1/2001	Broke Ground on 5/17/2000	
+Delta Energy	NP15	1	  880 	Feb-00	Jul-02	CEC	RDI	PIRA	Calpine & Bechtel	Natural Gas Combined Cycle Cogeneration 880MW, steam to Dow Chemical	Pittsburg, Contra Costa Co.	$350-$450 million	20 acres of existing industrial site (Dow Chemical)	PG&E Pittsburg Substation, 3.3 mile 230kV line	PG&E, 5.3 mile pipeline	3 - 200MW CTGs, 3 HRSG, 1 SG	BAAQMD       SCR	2ndary-treated wastewater from Delta Diablo Sanitation District, 500 ft.	approved	2/17/1999	4/1/2000	4/1/2002	
+High Desert	SP15	1	  720 	Mar-00	Dec-02	CEC	PIRA	High Desert Power Plant LLC (Inland & Constellation)	Natural Gas Combined Cycle, either 678MW or 720MW.  May develop steam, hot water or chilled water to industrial operations at project site in the future	Victorville, San Bernardino Co.	$250-$350 million	25 acres at former Air Force base	SCE Victor Substation, 7.2 mile 230kV line	Southwest Gas Co. will build 2.75-mile pipeline to project, but additional connections being considered as well 	720 MW plant: 3 Class F CT's (160MW each) and 3 steam turbines (86.5MW each)           678 MW plant: 2 Class G CT's (236MW each) and 2 steam turbines (115MW each)	Mojave Desert APCD           Dry Low NOx and SCR	Fresh water cooled, Water from CA Aqueduct supplied from Mojave Water Agency- 71 mile pipeline.  Groundwater from Victor Valley Water District when CA Aqueduct water is unavailable.  720MW plant: 3,597 AF/yr., 678MW plant: 3,102 AF/yr. 	proposed decision to approve project is pending	12/3/1997	2/1/2000	2/1/2002	Dec 2000 begin constr built dec 2002, some issues have arisen with its access to SWP water and amounts. Locally there is strong support to build this as part of an effort to revitalize the economy after the loss of the airbase.	
+Elk Hills	ZP26	3	  500 	Sep-00	Sep-02	CEC	RDI	PIRA	Elk Hills Power LLC (Sempra & Occidental)	Natural Gas Combined Cycle 500MW	Taft/ Buttonwillow, Kern Co.	12 acres of Elk Hills Oil and Gas Field	Either new Tupman substation or Midway substation, 9 miles	2,500 ft. pipeline	2 153-166 MW CTG's, 1 HRSG, 1 171MW SG	SJUVAPCD  Dry low NOx SCR	Fresh water from State Water Project, provided by Western Kern Water Dist, 9.8 mile pipeline	Deemed data adequate, now undergoing staff assessment	6/9/1999	8/1/2000	8/1/2002	
+Three Mountains	NP15	3	  500 	Oct-00	Jan-03	CEC	RDI	PIRA	Three Mountain Power LLC (Ogden Power Pacific)	Natural Gas Combined Cycle 500MW	Burney, Shasta Co.	$250 million	40 acres, on industrial site with existing 10 MW wood-burning power plant	PG&E, 1,800 ft. 230 kV line, plus 88 miles of reconductoring, tie-in with PG&E 230 kV Pit River hydro transmission line 	PG&E, 2,500 to 7,000 ft. pipeline	2 170-MW "F" Class CTG's, 1 HRSG, 1 230-W SG 	Shasta Co. AQMD	Groundwater from Burney Water District, 4,700 ft. pipeline, 2,900 AF/yr	Deemed data adequate, now undergoing staff assessment	6/23/1999	8/1/2000	8/1/2002	Project manager asked for a 3 month delay for additional resources due to some water issues	
+Moss Landing	NP15	3	  1,090 	Oct-00	Oct-02	CEC	RDI	PIRA	Moss Landing LLC            (Duke Energy)	Natural Gas Combined Cycle 1,090 MW	Moss Landing, Monterey Co.	$475 million	existing urban/ industrial (power plant) site	PG&E substation at site	PG&E gas pipelines already at site	2-530 MW units: each with 2 CTG's, 2 HRSG's and 1 SG	Monterey Bay Unified APCD	Seawater, once-through cooling	Deemed data adequate, now undergoing staff assessment	8/11/1999	10/1/2000	10/1/2002	
+Otay Mesa	SP15	3	  510 	Nov-00	Nov-02	CEC	RDI	PIRA	PG&E Generating Co.	Natural Gas Combined Cycle 510MW	Otay Mesa, San Diego Co.	$500 million	15 acres of "green field"	SDG&E, .1 mile 230 kV line to Miguel-Tijuana substation	SDG&E, 2 mile pipeline	San Diego APCD, Dry low NOx, SCONOx, NOx @ 1 ppm	Dry air condenser - not water, 2 mile pipeline to dispose wastewater to San Diego Co.	Deemed data adequate, now undergoing staff assessment	10/6/1999	12/1/2000	12/1/2002	Air Quality issue	
+Pastoria (Tejon Ranch)	ZP26	3	  750 	Jan-01	Jan-03	CEC	RDI	PIRA	Pastoria Energy  Facility LLP (Enron)	Natural  Gas Combined Cycle 750 MW	Kern Co.	$300 million	30 acres	SCE Pastoria substation, via 1.35 mile 230 kV	Kern River-Mojave Pipeline via 11.65 mile pipeline	3-170 MW CT's, 2 HRSG, and 1-185 MW SG	SJVUAPCD, SONON or SCR	Wheeler Ridge-Maricopa Water Storage District, up to 7.2 MGD	Deemed data adequate, now undergoing staff assessment	1/26/2000	3/1/2001	3/1/2003	To begin formal hearing process	
+Blythe	SP15	3	  520 	Mar-01	Mar-03	CEC	RDI	PIRA	Summit Energy Group	Natural Gas Combined Cycle 520MW	Blythe, Riverside Co.	$250 million	15 acres of land zoned for industy	Western Area Power Admin., 600 ft. to Blythe Substation	Either El Paso-owned pipeline via 11.5 pipeline, or So. Cal Gas via .8 mile pipeline	2-170 MW CTs, 2 HRSG and 1-180 MW SG 	Mojave, Dry low NOx and SCR	Groundwater wells at project site, 3,000 AF/yr.	Deemed data adequate, now undergoing staff assessment	Projected Jan-00	2/1/2001	2/1/2003	
+Midway-Sunset	SP15	3	  500 	Mar-01	Mar-03	CEC	RDI	PIRA	ARCO Western Energy	Natural Gas Combined Cycle 500MW	McKittrick, Kern Co.	$300 million	10 acres near existing power plant facility	PG&E, 19 mile 230 kV line to Midway substation	Will be connected to Kern-Mojave and So Cal Gas pipelines	2 -170 MW CTs, 2 HRSG and 1-180 MW SG	SJVUAPCD, Dry low NOx, SCR	West Kern Water District to provide 3,260 AF/yr.	Filed 12/22/99	Projected Feb-00	3/1/2001	3/1/2003	
+Contra Costa	NP15	3	  530 	Apr-01	Apr-03	CEC	RDI	PIRA	Southern Energy Delta, LLC	Natural Gas Combined Cycle 530MW (Total generating capacity at facility: 1,210 MW)	1 mile NE of Antioch, Contra Costa Co.	$250-$300 million	20 acres on existing 200-acre power plant site	PG&E's Contract Costa Switchyard, located on site at 230 KV	Existing gas supply pipeline connected to PG&E Line 400	Adding new "Unit 8" to existing plant: 2-175 MW GE Frame 7FA CGTs, 2 HRSG, 1-190 MW STG	BAAQMD, Dry low NOx burners, SCR, oxidation catalyst, 2.5 ppm of NOx	Reused San Joaquin River water, used first to cool Units 6 & 7, no new water lines needed, 7.3 - 7.5 MGD	Filed 1/31/2000	Projected Mar-00	4/1/2001	4/1/2003	
+Mountainview	SP15	3	  1,056 	Apr-01	Apr-03	CEC	Mountainview Power Co., LLC (subsidiary of Thermo ECOtek)	Natural Gas Combined Cycle, 1056MW	Redlands (annexation pending), San Berno. Co.	$550 million	16.3 acres of existing San Bernardino power plant site	Existing adjacent SCE-owned San Bernardino substation, no new t. lines needed	SoCalGas (Line 4000/4002), new 17 mile pipeline	Adding Units 3&4 to existing 132-MW power plant site (Units 1&2 @ 66 MW), 4-167 MW GE Model 7FA class CGT's, 4 HRSG's, 2-209 MW STG's, plus diesel engines	SCAQMD, Dry low NOx, SCR, oxidation catalyst, 2.5 ppm NOx	Water from either on-site and off-site wells, or secondary effluent from City of Redlands WWTP (if reclaimed water is used, will need 2.3 mi. water supply pipeline, 1,100 ft. wastewater discharge pipeline, Need 7.15 MGD	Filed 2/1/2000	Projected Mar-00	3/1/2001	3/1/2003	Found data adequate 5/17/2000	
+Nueva Azalea (Sunlaw)	SP15	3	  550 	Jan-01	Jan-04	CEC	RDI	PIRA	EM-One Power Station LLC (owned by Sunlaw)	Natural Gas Combined Cycle, 550 MW	South Gate, LA County	$256 million	13.5 acres of existing commercial trucking facility	SCE, 1000 ft. of 230 kV line to both Mesa and Redondo substations 	So Cal Gas, 1 mile pipeline	2, 175-MW ABB KA24-1 CTs, and 2 100-MW ST's 	SCAQMD, dry low-NOx combustors and SCONOX, <1 ppm	Reclaimed water purchased from City of South Gate, supplied by MWD, 2,100 GPM.  Wastewater to City of South Gate sewers.	Filed 3/8/00	Projected May-00	6/1/2001	6/1/2003	Not Data Adequate	
+Sunrise	ZP26	* 3	  320 	Aug-00	Aug-02	CEC	RDI	PIRA	Sunrise Cogeneration and Power Company (subsidiary of Texaco, Inc.)	Natural Gas-Fired Cogeneration (for TEOR) 320MW	Fellows,    Kern Co.	$175-$195 million	16 acres oil reserve site	PG&E and DWR (new) Valley Acres substation, 15 mile 230 kV line 	Texaco No. American Production, 60 ft. pipeline	2 165 MW General Electric 7FA CTG's, 2 HRSG's 	SJVUAPCDDry Low NOx  SCR	From adjacent oil field operations	in hearings	2/17/1999	4/1/2000	4/1/2002	The California Energy Commission denied Texaco a license to build a proposed 320 MW, $175-$195 million power plant in Kern County, CA. The U.S. so-called Sunrise Cogeneration Project was rejected at the U.S. Environmental Protection Agency ruled that the local air district's final determination of compliance is invalid. The Energy Commission said it would not grant license until the environmental issues are resolved. 7/10/2000 turns out that CA had issues with Texaco over some prior violations at other sites.	Looks Bad. Not cancelled yet	
+Metcalf	NP15	* 3	  600 	Dec-00	Dec-02	CEC	RDI	PIRA	Calpine & Bechtel	Natural Gas Combined Cycle 600 MW	San Jose and Santa Clara County, Santa Clara Co.	$300-400 million	14 acres, currently zoned agricultural/ campus industrial	PG&E, 200 ft. 230 kV to Metcalf substation	PG&E, 1 mile	2 - 200MW CTCs, 2 HRSG, 1-235 MW SG	BAAQMD       Dry low NOx, SCR, NOx @ 2.5 ppm	Recycled water from San Jose/Santa Clara Water Pollution Control Plant via 10.2-mile pipeline, 2.9 to 5.8 MGD 	Deemed data adequate, now undergoing staff assessment	6/23/1999	8/1/2000	8/1/2002	Also this week, the San Jose Mercury News reported that California Energy Commission analysts have recommended that Calpine Corp.'s proposed Metcalf Energy Center be built somewhere other than Coyote Valley. The newspaper said the recommendation was a "potentially fatal blow" to Calpine's plans for the power plant. The paper said that California Energy Commission officials said that sites in North San Jose or Fremont would be "preferable to the environmentally sensitive Coyote Valley." Calpine officials were reported to be insisting that Coyote Valley remains the best location for a power plant, and said they have no plans to fold their tents. They said they would address the state's concerns about water quality and a rare local butterfly before the energy commission makes a final permit decision later this year. 7/10/2000 - Mayor came out publicly against this, but there is strong support with the industrial and commercial users that a plant be built.	Need rezone of land. Major doc released 5/16/2000 Prelim staff assesment now enter public workshops, lot of public opposition	
+Morro Bay	ZP26	4	530	CEC	PIRA	Duke Energy	Natural Gas Combined Cycle 530MW	Morro Bay, San Luis Obispo Co.	$250 million	existing urban/ industrial (power plant) site	withdrew application, will resubmit for "first phase" in  April or May, 2000. Community wants plant to be modified, want more funds, city council person wants to reopen intake issue	Projected Feb-00	3/1/2001	3/1/2003	withdrawn	
+Antelope Valley	ZP26	4	1000	Jun-04	CEC	RDI	PIRA	AES	Up to 1,000MW	California City, Kern Co.	$500 million	Antelope Valley	Expect application 1/00 or 2/00	Projected Mar-00	4/1/2001	4/1/2003	
+Potrero Repwr	NP15	4	530	Sep-03	CEC	PIRA	Southern Energy	530MW	Portrero, Contra Costa Co.	BAAQMD	Projected Feb-00	3/1/2001	3/1/2003	
+South City	NP15	4	550	CEC	RDI	PIRA	AES	550MW	So. San Francisco, San Mateo Co.	BAAQMD	
+Redondo Beach Repwr	SP15	4	700	CEC	RDI	PIRA	AES	700MW	Redondo Beach, LA County	SCAQMD	Expect application in March/00	
+Telephone Flat	NP15	4	48.8	PIRA	Calpine	Probably built to 30 MW depending on contract Geothermal Steam	Modoc National Forest - Medecine Lake Area	
+Four Mile Project	NP15	4	49.9	PIRA	Calpine	Probably built to 30 MW depending on contract Geothermal Steam	Modoc National Forest - Medecine Lake Area	
+Hanford	ZP26	4	100	Jun-03	
+made requests to couple water districts	
+Sum of Capacity	Status	CISO New Gen Study	
+Region	1	2	3	4	http://www.bpa.gov/corporate/kcc/lightson/caliso/sld001.htm	
+NP15	1000	880	2720	1178.7	
+SP15	720	3136	1200	High Desert Call	
+ZP26	1048	1570	1530	Richard Buell	
+Project Manager	
+Sum of Capacity	Region	Energy Facilities Siting and Environmental Protection Division	
+Possible On-line Date	NP15	SP15	ZP26	California Energy Commission	
+Jul-01	500	1516 Ninth Street, MS-15	
+Aug-01	500	Sacramento, CA 95814	
+Sep-01	1048	Phone: 916-653-1614	
+Mar-02	720	
+Apr-02	880	klande:
+DP-Agrees with low probability
+klande:
+DP - Medium Prob 2003-4
+klande:
+DP- Kept at low probability
+JB - Low Prob
+klande:
+DP - High prob
+klande:
+DP - 2004
+klande:
+JB - CEC Appl 880 MW
+Project Name	Applicant	Type, Fuel Source and Size	Location	Estimated Cost	Nature of Location, "green field" or existing site	Intended Grid Tie-In and New Linear Facilities	Natural Gas Supplier and New Linear Facilities	Turbine Specs 	Air District, Air Pollution Control Technology and Offset Strategy	Cooling Technology, Source of Water (if water cooled), and New Linear Facilities	Status	Date of Data Adequacy	Actual or Projected Date of Certification (13+ months from Data Adequacy date)	Projected Date of Operation (24 months from Certification date)	
+Sutter Power	Calpine Corporation	Natural Gas Combined Cycle 500MW	Yuba City area, Sutter Co.	$250 - $285 million	16 acres of "green field," adjacent to cogeneration power plant	WAPA transmission system, 4-mile 230 kV overhead line, not ISO operated	PG&E, 14.9 mile pipeline	2 - 170MW Westinghouse 501 FC gas  turbine/generators, 2 heat recovery steam generators (HRSG), 1 - 160 MW steam turbine/generator	Feather River AQMD Dry Low NOx, SCR, and oxidation catalyst       2.5 NOx	Dry air condenser	approved 	1/21/1998	4/14/1999	Construction halted, pending review by US EPA Appeals Board               If project can begin on April-00, could be operating by April-02	
+Pittsburg District Energy Facility	Pittsburg District Energy Facility LLC (established by Enron Capital and Trade Resources Corp.)	Natural Gas-Fired, Combined Cycle Cogeneration 500MW, steam to USS-POSCO	Pittsburg, Contra Costa Co.	$300 million	12 acres of industrial site (USS-Posco Industries)	PG&E switchyard at the Pittsburg Power Plant,  2 mile 115kV	PG&E, 3.6 mile pipeline	2 "F" class gas turbine/generators, heat recovery steam generator units, 1 steam turbine generator	BAAQMD SCR and Dry Low NOx	Delta Diablo Sanitation District - disinfected tertiary reclaimed water (128,000 gpm), 2 mile pipeline	approved	7/29/1998	8/17/1999	Sep-01	Avoid duplication of tx lines with delta	
+La Paloma	La Paloma Generating Company LLC (formed by PG&E Generating Co.)	Natural Gas Combined Cycle 1048MW	McKittrick, Kern Co.	$500 million	23 acres in an oil field production area	PG&E Midway Substation, 14.2 mile 230kV line	Interstate pipeline owned jointly by Kern River National Gas Transmission Company and Mojave Pipeline Company, 370 feet	4 - 262 MW "power islands," each with 1 gas turbine generator (ABB Model GT 24) , 1 HRSG and 1 steam turbine	San Joaquin Valley Unified APCD       SCR on 3, "SCONOx" on 1 CT	Fresh water cooled, Water from CA Aqueduct supplied from West Kern Water Dist., 5,500 AF/yr., 8 mile pipeline	approved	8/26/1998	10/6/1999	Nov-01	
+Delta Energy Center	Calpine & Bechtel	Natural Gas Combined Cycle Cogeneration 880MW, steam to Dow Chemical	Pittsburg, Contra Costa Co.	$350-$450 million	20 acres of existing industrial site (Dow Chemical)	PG&E Pittsburg Substation, 3.3 mile 230kV line	PG&E, 5.3 mile pipeline	3 - 200MW CTGs, 3 HRSG, 1 SG	BAAQMD       SCR	2ndary-treated wastewater from Delta Diablo Sanitation District, 500 ft.	approved	2/17/1999	Apr-00	Apr-02	
+High Desert	High Desert Power Plant LLC (Inland & Constellation)	Natural Gas Combined Cycle, either 678MW or 720MW.  May develop steam, hot water or chilled water to industrial operations at project site in the future	Victorville, San Bernardino Co.	$250-$350 million	25 acres at former Air Force base	SCE Victor Substation, 7.2 mile 230kV line	Southwest Gas Co. will build 2.75-mile pipeline to project, but additional connections being considered as well 	720 MW plant: 3 Class F CT's (160MW each) and 3 steam turbines (86.5MW each)           678 MW plant: 2 Class G CT's (236MW each) and 2 steam turbines (115MW each)	Mojave Desert APCD           Dry Low NOx and SCR	Fresh water cooled, Water from CA Aqueduct supplied from Mojave Water Agency- 71 mile pipeline.  Groundwater from Victor Valley Water District when CA Aqueduct water is unavailable.  720MW plant: 3,597 AF/yr., 678MW plant: 3,102 AF/yr. 	proposed decision to approve project is pending	12/3/1997	Feb-00	Feb-02	
+Sunrise Cogen	Sunrise Cogeneration and Power Company (subsidiary of Texaco, Inc.)	Natural Gas-Fired Cogeneration (for TEOR) 320MW	Fellows,    Kern Co.	$175-$195 million	16 acres oil reserve site	PG&E and DWR (new) Valley Acres substation, 15 mile 230 kV line 	Texaco No. American Production, 60 ft. pipeline	2 165 MW General Electric 7FA CTG's, 2 HRSG's 	SJVUAPCDDry Low NOx  SCR	From adjacent oil field operations	in hearings	2/17/1999	Apr-00	Apr-02	
+Elk Hills	Elk Hills Power LLC (Sempra & Occidental)	Natural Gas Combined Cycle 500MW	Taft/ Buttonwillow, Kern Co.	12 acres of Elk Hills Oil and Gas Field	Either new Tupman substation or Midway substation, 9 miles	2,500 ft. pipeline	2 153-166 MW CTG's, 1 HRSG, 1 171MW SG	SJUVAPCD  Dry low NOx SCR	Fresh water from State Water Project, provided by Western Kern Water Dist, 9.8 mile pipeline	Deemed data adequate, now undergoing staff assessment	6/9/1999	Aug-00	Aug-02	
+Three Mountain Power	Three Mountain Power LLC (Ogden Power Pacific)	Natural Gas Combined Cycle 500MW	Burney, Shasta Co.	$250 million	40 acres, on industrial site with existing 10 MW wood-burning power plant	PG&E, 1,800 ft. 230 kV line, plus 88 miles of reconductoring, tie-in with PG&E 230 kV Pit River hydro transmission line 	PG&E, 2,500 to 7,000 ft. pipeline	2 170-MW "F" Class CTG's, 1 HRSG, 1 230-W SG 	Shasta Co. AQMD	Groundwater from Burney Water District, 4,700 ft. pipeline, 2,900 AF/yr	Deemed data adequate, now undergoing staff assessment	6/23/1999	Aug-00	Aug-02	
+Metcalf Energy Center	Calpine & Bechtel	Natural Gas Combined Cycle 600 MW	San Jose and Santa Clara County, Santa Clara Co.	$300-400 million	14 acres, currently zoned agricultural/ campus industrial	PG&E, 200 ft. 230 kV to Metcalf substation	PG&E, 1 mile	2 - 200MW CTCs, 2 HRSG, 1-235 MW SG	BAAQMD       Dry low NOx, SCR, NOx @ 2.5 ppm	Recycled water from San Jose/Santa Clara Water Pollution Control Plant via 10.2-mile pipeline, 2.9 to 5.8 MGD 	Deemed data adequate, now undergoing staff assessment	6/23/1999	Aug-00	Aug-02	
+Moss Landing	Moss Landing LLC            (Duke Energy)	Natural Gas Combined Cycle 1,090 MW	Moss Landing, Monterey Co.	$475 million	existing urban/ industrial (power plant) site	PG&E substation at site	PG&E gas pipelines already at site	2-530 MW units: each with 2 CTG's, 2 HRSG's and 1 SG	Monterey Bay Unified APCD	Seawater, once-through cooling	Deemed data adequate, now undergoing staff assessment	8/11/1999	Oct-00	Oct-02	
+Otay Mesa	PG&E Generating Co.	Natural Gas Combined Cycle 510MW	Otay Mesa, San Diego Co.	$500 million	15 acres of "green field"	SDG&E, .1 mile 230 kV line to Miguel-Tijuana substation	SDG&E, 2 mile pipeline	San Diego APCD, Dry low NOx, SCONOx, NOx @ 1 ppm	Dry air condenser - not water, 2 mile pipeline to dispose wastewater to San Diego Co.	Deemed data adequate, now undergoing staff assessment	10/6/1999	Dec-00	Dec-02	
+Pastoria	Pastoria Energy  Facility LLP (Enron)	Natural  Gas Combined Cycle 750 MW	Kern Co.	$300 million	30 acres	SCE Pastoria substation, via 1.35 mile 230 kV	Kern River-Mojave Pipeline via 11.65 mile pipeline	3-170 MW CT's, 2 HRSG, and 1-185 MW SG	SJVUAPCD, SONON or SCR	Wheeler Ridge-Maricopa Water Storage District, up to 7.2 MGD	Deemed data adequate, now undergoing staff assessment	1/26/2000	Mar-01	Mar-03	
+Blythe Energy	Summit Energy Group	Natural Gas Combined Cycle 520MW	Blythe, Riverside Co.	$250 million	15 acres of land zoned for industy	Western Area Power Admin., 600 ft. to Blythe Substation	Either El Paso-owned pipeline via 11.5 pipeline, or So. Cal Gas via .8 mile pipeline	2-170 MW CTs, 2 HRSG and 1-180 MW SG 	Mojave, Dry low NOx and SCR	Groundwater wells at project site, 3,000 AF/yr.	Deemed data adequate, now undergoing staff assessment	Projected Jan-00	Feb-01	Feb-03	
+Western Midway Sunset	ARCO Western Energy	Natural Gas Combined Cycle 500MW	McKittrick, Kern Co.	$300 million	10 acres near existing power plant facility	PG&E, 19 mile 230 kV line to Midway substation	Will be connected to Kern-Mojave and So Cal Gas pipelines	2 -170 MW CTs, 2 HRSG and 1-180 MW SG	SJVUAPCD, Dry low NOx, SCR	West Kern Water District to provide 3,260 AF/yr.	Filed 12/22/99	Projected Feb-00	Mar-01	Mar-03	
+Contra Costa Modernization	Southern Energy Delta, LLC	Natural Gas Combined Cycle 530MW (Total generating capacity at facility: 1,210 MW)	1 mile NE of Antioch, Contra Costa Co.	$250-$300 million	20 acres on existing 200-acre power plant site	PG&E's Contract Costa Switchyard, located on site at 230 KV	Existing gas supply pipeline connected to PG&E Line 400	Adding new "Unit 8" to existing plant: 2-175 MW GE Frame 7FA CGTs, 2 HRSG, 1-190 MW STG	BAAQMD, Dry low NOx burners, SCR, oxidation catalyst, 2.5 ppm of NOx	Reused San Joaquin River water, used first to cool Units 6 & 7, no new water lines needed, 7.3 - 7.5 MGD	Filed 1/31/2000	Projected Mar-00	Apr-01	Apr-03	
+Mountainview 	Mountainview Power Co., LLC (subsidiary of Thermo ECOtek)	Natural Gas Combined Cycle, 1056MW	Redlands (annexation pending), San Berno. Co.	$550 million	16.3 acres of existing San Bernardino power plant site	Existing adjacent SCE-owned San Bernardino substation, no new t. lines needed	SoCalGas (Line 4000/4002), new 17 mile pipeline	Adding Units 3&4 to existing 132-MW power plant site (Units 1&2 @ 66 MW), 4-167 MW GE Model 7FA class CGT's, 4 HRSG's, 2-209 MW STG's, plus diesel engines	SCAQMD, Dry low NOx, SCR, oxidation catalyst, 2.5 ppm NOx	Water from either on-site and off-site wells, or secondary effluent from City of Redlands WWTP (if reclaimed water is used, will need 2.3 mi. water supply pipeline, 1,100 ft. wastewater discharge pipeline, Need 7.15 MGD	Filed 2/1/2000	Projected Mar-00	Mar-01	Mar-03	
+Nueva Azalea	EM-One Power Station LLC (owned by Sunlaw)	Natural Gas Combined Cycle, 550 MW	South Gate, LA County	$256 million	13.5 acres of existing commercial trucking facility	SCE, 1000 ft. of 230 kV line to both Mesa and Redondo substations 	So Cal Gas, 1 mile pipeline	2, 175-MW ABB KA24-1 CTs, and 2 100-MW ST's 	SCAQMD, dry low-NOx combustors and SCONOX, <1 ppm	Reclaimed water purchased from City of South Gate, supplied by MWD, 2,100 GPM.  Wastewater to City of South Gate sewers.	Filed 3/8/00	Projected May-00	Jun-01	Jun-03	
+Morro Bay	Duke Energy	Natural Gas Combined Cycle 530MW	Morro Bay, San Luis Obispo Co.	$250 million	existing urban/ industrial (power plant) site	withdrew application, will resubmit for "first phase" in  April or May, 2000. Community wants plant to be modified, want more funds, city council person wants to reopen intake issue	Projected Feb-00	Mar-01	Mar-03	
+Antelope Valley	AES	Up to 1,000MW	California City, Kern Co.	$500 million	Antelope Valley	Expect application 1/00 or 2/00	Projected Mar-00	Apr-01	Apr-03	
+Potrero Repwr	Southern Energy	530MW	Portrero, Contra Costa Co.	BAAQMD	Projected Feb-00	Mar-01	Mar-03	
+Long Beach	Enron	500MW	Long Beach, LA County	SCAQMD	
+South City	AES	550MW	So. San Francisco, San Mateo Co.	BAAQMD	
+Redondo Beach Repwr	AES	700MW	Redondo Beach, LA County	SCAQMD	Expect application in March/00	1- Under Construction or Completed; 2 - Regulatory Approval Received; 3 - Application under review; 4-Starting app process; 5- Press Release only; 6 - Word of mouth	Contact:	OPUC, Jack Williams (503) 378-6634	Jeff King, Central Power Council maintains comprehensive db of all plants to be built in 	
+Plant	Status	Capacity	Possible Permit Date	Possible On-line Date	Source 1	Source 2	Source 3	Applicant	Location	Unit	Unit Type	Fuel	Estimated Cost	State	NERC/Reg	Status	Notes	Oregon Office of Energy, Dave (503) 378-4040	
+Vestas	1	  25 	1-Mar-99	Completed	RDI	Vansycle Ridge, FPL Project, BPA, 	Umatilla	38	Wind	OR	WSCC	1996 PGE enetered into an agreement to buy net output of wind plant from Kentor Wind power.	
+Vestas	1	  100 	1-May-00	1-Dec-01	RDI	Vansycle Ridge, FPL Project, BPA, 	Umatilla	??	Wind	OR	WSCC	Previously sited facility operated at 35% capacity over the course of the last year which is much better than expected. FPL should submit 100MW appl in June 2000	
+Klamath Cogen	1	  490 	Yes	1-Jun-01	RDI	PIRA	Klamath Falls / Pacificorp	Klamath Falls	2	CG	NG	OR	WSCC	Increased to 500 April 17, 1998 - B&V is EPC.  40 yr lease signed with Collins Wood products for siting 3/99. Completion date chaged to 7/2001 from 5/2001, 2 Westinghouse turbines Frame Unit with ABB Steam Turbine, 4000 ft elevation HR 6900 HHV, 490 MW because of eleveation	
+Hermiston	1	  536 	Yes	1-May-02	RDI	PIRA	Calpine / Ida Corp	Hermiston	2	CC	NG	OR	WSCC	Calpine bought rights from Ida-West.  ABB GT24 turbines., SC granted, on-site investigation underway as of 4/27/2000.  Calpine is not bound to original configuration as set forth by Idacorp. 6900 HR at HHV. 2-on-1 Frame unit\	
+Coyote Springs Phase 2	2	  231 	1-Mar-02	PIRA	Portland General	Boardman	NG	OR	WSCC	Plan to build filed under old need-for-power law.  Must pay 2.5 million to climate Trust if built., SC approved, WWP Under review with ammenment	
+Little Sand Dam	2	  (11)	1-Jun-04	RDI	PGE	Hydro	OR	WSCC	
+Columbia County/Boise Cascade	5	  110 	Siting Office	Oregon Energy, Inc	St Helens	3	NG	OR	WSCC	Received high efficiency exemption for upto 110 MW next to Boise Cascade's St. Helens Plant.  They have reached a tentative agreement to sell power and steam to Boise. This will require a new expansion in order to sell more steam.	
+Columbia County Cogen	5	  440 	PIRA	PowerLink	St Helens	NG	OR	WSCC	NOI expired, low probability of being built; good site though because of proximity to Trojan 500 KV line and near load center and will not require a BPA EIS	
+Umatilla	5	  481 	1-Jun-03	PIRA	PG&E Gen	Umatilla	NG	OR	WSCC	On hold until market friendlier, acording to OR EFSB, Has pulled application	
+Newberry	6	  30 	NW Geo	Geothermal	OR	WSCC	Never to be built. Drilling revealed hot/cold rock geology-->poor steam	
+Malin/Bonanza	5	  214 	PIRA	Tenaska Power Part	Malin	NG	OR	WSCC	Never to be built. Notice of intent expired. Physically to close to Klamath Falls	
+Nr Ore Pumped Strg	6	  15 	PIRA	Composite Power Corp	The Dalles	WAT	OR	WSCC	Part of large Montana coal project. 250 MW	
+Sum of Capacity	Status	
+1	2	5	6	
+Total	525	756	1345	45	
+Sum of Capacity	
+Possible On-line Date	Total	
+Completed	25	
+1/1/2001	100	
+7/1/2001	500	
+7/1/2002	536	
+(blank)	-11	
+3/1/2002	231	
+Grand Total	1381	klande:
+EC- High Prob
+
+1- Under Construction or Completed; 2 - Regulatory Approval Received; 3 - Application under review; 4-Starting app process; 5- Press Release only; 6 - Word of mouth	Contact:	EFSEC Mike Mills (360) 956-2121   Only plants over 250 MW Allen Fixtall ext 2152 Mike Nelson, WSU 360-956-2148 BPA on tab for 15 miiliion Greenfield Energy Facility, could build a solar plant there and delay the remediation effort upt0 90 years.	
+Plant	Pipeline	Status	Capacity	Possible Permit Date	Possible On-line Date	Source 1	Source 2	Source 3	Applicant	Location	Unit	Unit Type	Fuel	Estimated Cost	State	NERC/Reg	Status	Notes	Paul Roberts / Jerry Everett Planning Phone: (425) 257-8731 	
+Everett Delta	local review	1	  248 	3-Oct-97	1-Dec-01	CEC	PIRA	FPL Energy / PSPL Energy Services Formerly Northwest Power	Everett	1	CC	NG	WA	WSCC	Formerly (stalled) NWPE 220 MW project.  FPL bought rights in 1/99.  Construction to began 9/1/99 As of 4/25/00 Unit 1 not complete and gas line construction has been stalled. GE Fcycle units 6900 HR	
+Chehalis Power	Most likely to be built	2	  460 	1-Mar-97	1-Jun-03	EFSEC	PIRA	Tractebel	Chehalis	CC	NG	WA	WSCC	Const to begin spring 2001, proposed change would allow the use of higher efficiency turbines that would generate an additional 60 megawatts of electricity (from 460 to 520 MW). The proposed change in turbine technology also requires a modification of the air emission permit. Some changes to liscense.	
+Cowlitz Cogen	2	  405 	1-Feb-04	CEC	PIRA	Mission / Weyerhauser	longview	2	CC	NG	WA	WSCC	SC granted	
+Northwest Regional PF	2 *	  838 	20-Sep-96	EFSEC	PIRA	Northwest Power Co	Spokane	NG	WA	WSCC	Same co doing star project, Began in early 1990's. Fundamental technical problems with this site concerning access to water and transmission--> Low Probability of being built No date for start of construction	
+Satsop	2 *	  532 	1-Dec-03	CEC	PIRA	WPPSS, Energy Northwest	Satsop	2	CC	NG	WA	WSCC	SC approved 10 year liscence 2006	
+Sumas Energy 2	3	  660 	1-Nov-99	1-Jun-03	CEC, EFSEC	PIRA	NESCO Enterprises	Sumas	CC	NG	WA	WSCC	To be announced early 99.  WAEFSB issued RFP to hire consultants for review of this and subsequent energy projects in Nov 98.  2x355 MW.  As proposed, would take cooling water from BC - some opposition from local Labor.18-24 mo process	
+Starbuck Power Facility	PGT	4	  1,100 	1-Jun-04	EFSEC	PIRA	Northwest Power Co	Starbuck (SE WA)	CC	NG	WA	WSCC	Prelim site study, before app process	
+Hanford Wind Power	  - 0 	WSU 	PIRA	Composite Power Corp	Hanford	WND	WA	WSCC	Part of large Montana coal project. 250 MW	
+Global Energy	  250 	1-Jun-03	Snohomish	
+Condit - White Salmon	2	  (23)	1-Jan-08	
+10 year liscenses done in 2007	
+Sum of Capacity	Status	
+1	2	3	4	(blank)	
+Total	248	2235	660	1100	0	
+BPA System Study	
+http://www.bpa.gov/corporate/kcc/reliability/nwppc/sld001.htm	klande:
+ST - High Prob
+klande:
+EC - Low Prob
+
+1- Under Construction or Completed; 2 - Regulatory Approval Received; 3 - Application under review; 4-Starting app process; 5- Press Release only; 6 - Word of mouth	Contact:	Ron Kuzel, MT DEQ, 406-444-2544 or Warren McCullough (406) 444-6791; Berney Daily WY,(307) 777-7391; Dan Selgado ID (208) 373-0431, Mark Casper, Cogentrix, (704) 525-3800	
+Plant	Status	Capacity	Possible Permit Date	Possible On-line Date	Source 1	Source 2	Source 3	Applicant	Location	Unit	Unit Type	Fuel	Estimated Cost	State	NERC/Reg	Status	Lynn Menlove, Utah Air Quality District (801) 536-4076; Mike Owens, EPA (303) 312-6312	
+Rathdrum	1	  270 	29-Oct-99	1-Aug-01	CEC	RDI	PIRA	Cogentrix / Avista	Rathdrum	1	CC	NG	ID	WSCC	Hope to finance by 6/99, begin construction by 11/99, complete by 11/01.  Power sold to Avista. Air issued late fall.  Under construction. Spoke to Mark Casper at Cogentrix(Environmental Issues) Plant is N of Cour d'Alaine uses pipeline and transmission wires from Pond O'Reille dam.. 1-on-1 GE F cycle, 6900 HR Combine Cycle	
+Foote Creek 4	1	  17 	1-Aug-00	RDI	Carbon Co.	Wind	WY	Currently 28.2 MW installedHoly placed a call with BPA 5/18/2000, Sold forward at $49/MWh	
+Glacier Internatioal Power (Blackfeet)	5	  160 	1-Jun-01	CEC	RDI	PIRA	Adair Intl O&G/Blackfeet	Blackfeet Reservation	CC	NG	MT	WSCC	no set date yet	
+Quail Creek Hydro Plant #2	  4 	1-Jun-01	RDI	Washington County Water Conservacy	Water	UT	WSCC	
+Wygen 1	1	  80 	Under Construction	1-Dec-03	RDI	PIRA	Black Hills Corp	Gillette	Coal	WY	WSCC	air permits received, check www.blackhillscorp.com/ due in spring 2002, Vern Shields (307) 682-3771 ext 210 Preliminary construction has begun. Constructioin hiccups as of 5/10/2000 On-line date revised to 12/1/2003	
+Niel Simpson 2	1	  80 	1-Sep-95	PIRA	Calpine \ Blackhills Power & Light	Gillette	Coal	WY	WSCC	
+Two Elk CT Waste	2	  240 	Recent	Not under Construction 2 yrs to start	PIRA	North American Power	Two Elk	CT	Coal	WY	WSCC	Article in MW Daily	
+Eagle Ridge	2	  4 	Air Quality	Eagle Ridge 	West of Provo	UT	WSCC	plan to build some distributed gen	
+Eastern Montana Steam (Carbon County, Bear Creek)	5	  2,000 	31-Dec-03	CEC	RDI	PIRA	Composite Power Corp	Carbon county	ST	Coal	MT	WSCC	4x500 MW for sale in Wisconsin.  Uses new transmission technology.  Permits pending.  Transmission to cost 850 million.	
+Butte-Silver Bow County	4	  230 	DEQ	PIRA	Continental Energy Services	Silver Bow	NG	MT	WSCC	submitted bid to acquire 20 acres of land, has made preliminary inquires with DEQ	
+Kootenai Falls Hydroelectric	  144 	Northern Lights	Water	MT	WSCC	
+Shivwits Band Power	4	  215 	EPA	PIRA	FN Smith	St George	NG	UT	WSCC	Shivwits Indian(6x6 miles) Reservation 12 miles west of St. George, Utah.  Air pollution regulated by EPA Region 8. 1994 letter from Enviroserv Assoc with Tasco to see what permits are required.	
+Murray City (UAMPS)	4	  40 	Air Quality	Salt Lake County	NG	UT	WSCC	enetered preliminary discussions on upgrading capacity.	
+MT plants over 250 go through reg process with DEQ	
+Left msg with Cogentrix	
+ID DEQ is looking into this 	
+Status	
+1	2	4	5	(blank)	
+430	244	485	2160	148	1- Under Construction or Completed; 2 - Regulatory Approval Received; 3 - Application under review; 4-Starting app process; 5- Press Release only; 6 - Word of mouth	Contact:	Melissa Petrone, Office Energy Management & Conservation,  (303) 620-4292 ext 211	
+Plant	Status	Capacity	Possible On-line Date	Source 1	Source 2	Source 3	Applicant	Location	Unit	Unit Type	Fuel	Estimated Cost	State	NERC/Reg	Status	Notes	Gary Schmidts, Public Utility Commission 303-894-2000, 800-456-0858	
+Manchief (Brush)	1	265	1-Jun-00	CEC	RDI	PIRA	Coastal [Fulton cogeneration Associates]	Brush	NG	CO	WSCC	Wendell Winger, CPUC 303-894-2874	
+Valmont Repowering	1	11	25-May-00	CEC	RDI	PIRA	Public Service of Colorado , New Centuries sold to Indec	Boulder	NG	CO	WSCC	37 Mw in Boulder, 74 in Denver -finished turbines will be SOLD to highest bidder, scheduled in May 1st, but will be likely before June [called 1/31/00] Plant is recommended for additional development	
+Arapahoe Repowering	1	115	1-Jun-00	CEC	RDI	Public Service of Colorado , New Centuries sold to Indec	Denver	2	Coal	CO	WSCC	Plant currently having permit problems, 3 LM6000 derated because 5,300 foot. Everything is set at site engineering infrastruicture. Agreed to shut down old turbines sold to Indec, Blackhills has rights	
+Ft St Vrain - Phase III	2	235	1-Jun-01	CEC	PIRA	New Century Energy, PSC Colorado	Boulder & Denver	1	NG	CO	WSCC	Third stage of nuke plant conversion.  PSC to decide this fall. According to Wendell Winger CPUC this project has been approved	
+Powhatan 48	2	150	1-May-02	PIRA	North American Power	DIA	CT	NG	CO	WSCC	2X150 each unit- simple cycle- Denver International airport (initial phase)- origionally 6/2000. Same issues with air permits that Front Range faced American Power will only build one of its 2 plants because of this.	
+Ray Nixon (Phase 2)	2	400	1-Jan-03	CEC	PIRA	Colorado Springs Utilities / Coastal	Colorado Springs	CC	NG	CO	WSCC	Second phase.  One half sold to market through Coastal, No one has taken the excess because of high offer. If CSU cannot sell excess power unit will not be built.	
+Fort Lupton (Front Range)	3	160	1-May-01	CEC	RDI	PIRA	KN Energy (Front Range Power Co)	Fort Lupton	1	CC	NG	CO	WSCC	in response to RFP from PSCo, currently on hold due to air permits See RFP. Cancelled because of Air Permits 5/31/2000	
+Monahan 48	5	150	1-Jun-01	RDI	PIRA	North American Power	DIA	CT	NG	CO	WSCC	2X150 each unit- simple cycle- Denver International airport (initial phase)- origionally 6/2000	
+Metro Wastewater Cogen	5	10	RDI	Trigen-Colorado Energy	Unknown	
+Pawnee	6	200	PIRA	Independent Energy	Denver	CT	NG	CO	WSCC	Existing Coal conversion to gas	
+Left message with Melissa of OEMC	
+PSC new RFP for 3,000 MW	
+Sum of Capacity	Status	
+1	3	4	5	6	
+Total	276	160	350	160	200	
+Sum of Capacity	
+Possible On-line Date	Total	
+1-Jun-00	265	
+1-Dec-00	11	
+1-May-02	150	
+1-Jan-03	400	klande:
+ST - High  Prob
+1- Under Construction or Completed; 2 - Regulatory Approval Received; 3 - Application under review; 4-Starting app process; 5- Press Release only; 6 - Word of mouth	Contact:	ADEQ Barbara (602) 207-2283 Maricopa (602) 506-6010 Penal (520) 868-6915	
+Plant	Status	Capacity	Possible On-line Date	Source 1	Source 2	Source 3	Applicant	Location	Unit	Unit Type	Fuel	Estimated Cost	State	NERC/Reg	Status	Notes	
+El Dorado	1	492	1-Apr-00	Reliant	Boulder City, NV	2	NG	AZ	WSCC	HR 8000 $2 O&M many problems with unit no long term commitments only selling into CA Daily. Problem with turbine specs	
+South Point Power Plant [Mojave]	1	  545 	1-May-01	CEC	RDI	PIRA	Calpine	Fort Mojave Indian Reservation [Bullhead City]	CT	NG	AZ	WSCC	Construction started in June-99.  Ouput to be sold to CA, NV and AZ.  Approval received from BIA. Should be finished 3/01 added 5 MW to 545 MW. HR 7,250 Var O&M $1.00, Term Sheet shows 1.50 OM w/3% adj annual, 7100 HR Winter/7300 HR Summer, Min Run time 8 hours, max down time 30 hours 94%available winter 97%summer	
+Griffith Energy Project	1	  520 	1-May-01	CEC	RDI	PIRA	Duke Energy / NP Energy / PP&L	Kingman	2	CC	NG	AZ	WSCC	NP Energy to market output.  520 nominal output, Duke acquired 50% of project from PP&L	
+Desert Basin Gnrtng	1	  500 	1-Jun-01	CEC	RDI	PIRA	HIPG, Reliant	Casa Grande City	CC	NG	AZ	WSCC	Construction to start 3qtr 99.  40 yr sale/leaseback structure	
+43rd Avenue plant (Phase 1) West Phoenix - Repower	1	70 Incremental	1-Aug-01	CEC	RDI	PIRA	Pinnacle West Energy (APS/Calpine) Calpine maybe Reliant	West Phoenix	CC	NG	AZ	WSCC	Adding to existing simple cycle 130 MW Total 70MW Incremental. Repowering of existing simple cycle units. 	
+West Phoenix 5 	2	  500 	1-Dec-01	CEC	RDI	PIRA	Pinnacle West Energy (APS/Calpine)	West Phoenix	CC	NG	AZ	WSCC	530 MW similar to Red Hawk Plant's turbines. 43rd Avenue plant (Phase 2) West Phoenix - Repower. Red Hawk's construction could affect this because they might take the turbines to use in the Red Hawk. 2 CC units	
+Harquahala Generating Project	3	  1,000 	1-Jun-03	CEC	RDI	PIRA	US Gen [PG&E]	Maricopa County	CC	NG	AZ	WSCC	interconnect expect with Palo Verde nuclear transmission switchyard	
+Red Hawk Plant	3	  530 	1-Jun-03	CEC	RDI	PIRA	Pinnacle West Energy (APS)	1	CC	NG	AZ	WSCC	KW-indicated that 1,000 Mw is already fully permited and the site is preped and ready to begin construction	
+Red Hawk Plant	3	  530 	1-Dec-04	CEC	PIRA	Pinnacle West Energy (APS)	2	CC	NG	AZ	WSCC	
+Red Hawk Plant	3	  530 	1-Jan-06	CEC	PIRA	Pinnacle West Energy (APS)	3	CC	NG	AZ	WSCC	
+Red Hawk Plant	3	  530 	1-Dec-07	CEC	PIRA	Pinnacle West Energy (APS)	4	CC	NG	AZ	WSCC	
+Salt River [Kyrene Generating station]	4	  825 	1-Jan-04	CEC	PIRA	Dynergy / NRG Energy / SRP	Phoenix	CC	NG	AZ	WSCC	construction to begin in 2000 [Salt River Project- division of AZ state, 3r largest public utility in US- teamed with Dynergy&NRG] - 30% of power for utility	
+Arlington Valley	5	  550 	1-Aug-02	CEC	PIRA	Duke Energy	CC	NG	AZ	WSCC	to be built 2 miles from Palo Verde Nuclear Station	
+Panda Gila LP 1 of 2 (Gila River)	5	  1,000 	1-Dec-02	CEC	RDI	PIRA	Panda Energy	Phoenix	CC	NG	AZ	WSCC	construction to begin late 2000	
+Panda Gila LP 2 of 2 (Gila River)	5	  1,000 	1-Dec-02	CEC	RDI	PIRA	Panda Energy	Phoenix	CC	NG	AZ	WSCC	construction to begin late 2000	
+Gila Bend	5	  750 	1-Dec-03	RDI	PIRA	Power Development / Industrial Power Technology	Gila Bend	NG	AZ	WSCC	no indication when construction begins	
+Santan Generating Station	5	  825 	CEC	RDI	PIRA	Salt River Project	CC	NG	AZ	WSCC	Published on 04/25/2000 BYLINE: By Edythe Jensen, The Arizona Republic The Salt River Project will more than double the size of its Santan Generating Station in Gilbert by 2005, and the utility is taking parts of the expansion plan to the Town Council tonight.Although a similar SRP plant expansion in Tempe has generated heated protests, no organized opposition has surfaced in Gilbert.	
+White Tank	5	  1,250 	PIRA	Arizona Independent Pwr	Maricopa	PS	WAT	AZ	WSCC	Just applied to FERC for preliminary permit.  Pumped storage	
+North Loop 5	5	  86 	WSCC	TEP	Marazan	
+Waiting for fax	
+left messages with maricopa and penal	
+2	3	5	
+660	3120	5961	klande:
+FV - High Prob
+klande:
+FV - Med Prob
+
+klande:
+KW - this site is new build 500 MW same online date
+klande:
+KW - this is the only repower
+1- Under Construction or Completed; 2 - Regulatory Approval Received; 3 - Application under review; 4-Starting app process; 5- Press Release only; 6 - Word of mouth	Contact: Mark Harris, Carson City (775) 687-6001 DeAnn Parsons, State Energy Office (775) 687-4909	
+Plant	Status	Capacity	Possible On-line Date	Source 1	Source 2	Source 3	Applicant	Location	Unit	Unit Type	Fuel	Estimated Cost	State	NERC/Reg	Status	Notes	
+Las Vegas CoGen Expansion	2	220	1-Jun-02	Enron	Las Vegas	NG	Two, two-on-one combined cycle units. 4 GE LM6000 PC gas turbines with Enhanced Sprint, each rated 43MW  7,775 HR	
+Elko (Carlin)	5	  500 	1-Jun-03	RDI	PIRA	Coastal / El Paso	Elko	CC	NG	NV	WSCC	Article in MW Daily	
+Apex Industrial Park	5	  1,000 	1-Jun-03	PIRA	Southern Energy	Las Vegas	CC	NG	NV	WSCC	
+Fish Springs Ranch	6	  250 	Calpine	Washoe County	CC	NG	NV	WSCC	Alturus 345 KV Line, gas off the Tuscarora pipeline	
+6	  250 	Calpine	Clark County	CC	NG	NV	WSCC	Require a phase shift transformer in order to sell into CA	
+Nevada Green Energy Project	5	150	1-Dec-02	CEC	Composite Power Corp	Renewable	NV	WSCC	
+Nevada Green Energy Project	5	50	1-Dec-03	RDI	Composite Power Corp	Other	
+Next Gen II	4	30	1-Oct-01	CEC	Next Generation	CC	NG	NV	WSCC	
+Nevada Geen Energy	4	  1,000 	PIRA	Composite Power Corp	Amargosa Valley	NG	NV	WSCC	1,000 MW planned in various phases	
+Clark County Pupm Storage	5	150	31-Dec-04	RDI	Blue Diamond SPS Co., Inc.	Water	
+Clark County Sanitation District	5	30	1-Dec-02	RDI	NTS Development Corp.	Water	NV	WSCC	
+Wednesday, March 15, 2000	
+Copyright © Las Vegas Review-Journal	
+Sum of Capacity	
+6	Power plant construction planned for Nevada	
+Total	500	
+     Associated Press 	
+      PHOENIX -- Pinnacle West Energy, a sister to Arizona Public Service Co., is joining a Houston company in construction of four power plants in Arizona and Nevada. 	
+      Pinnacle West Energy, like APS a subsidiary of Pinnacle West Capital Corp., is sharing the projects with Reliant Energy Power Generation, Inc. 	
+      One of the shared projects will be a plant already under construction west of Phoenix. Two others will be in the Las Vegas area and one other will be in northern Nevada, probably near Reno. 	
+      The intent is to market electricity to the Southwest under power deregulation, said Bill Post, Pinnacle West Capital president. 	
+      Each company is to own a half interest in the projects that include five generating units each capable of producing more than 500 megawatts. 	
+      In announcing the joint agreement on Monday, the Phoenix-based company said a definitive agreement is to be signed within six months. 	1- Under Construction or Completed; 2 - Regulatory Approval Received; 3 - Application under review; 4-Starting app process; 5- Press Release only; 6 - Word of mouth	Public Regulation (505) 827-6940	
+Plant	Status	Capacity	Possible Permit Date	Possible On-line Date	Source 1	Source 2	Source 3	Applicant	Location	Unit Type	Fuel	State	Notes	
+Person	1	140	200005	1-May-00	CEC	RDI	PIRA	Cobisa Person / MCN Energy (Sterling Energy)	Albuquerque	CT	NG	NM	MCN Energy partner with Cobisa.  Used to be US Gen. For sale to PNM - on schedule for summer, but unsure of exact commercial date, Almost ready to begin operation	
+5	112	200105	PIRA	New Century Energy	Las Cruces	GT	NG	NM	moving simple cycle turbine from Hobbs NM [SPP] to WSCC	
+Belen	5	220	200307	CEC	RDI	PIRA	Cobisa 	Belen	NG	NM	under negotiations w/ city; construction starting spring 2001	
+New Mexico	5	300	999999	RDI	PIRA	Adair Intl O&G	NG	NM	no set date yet	
+Deming	5	250	999999	RDI	PIRA	Deming Power Partners	Deming	GT	NG	NM	
+Alburquerque Solar	5	5	CEC	PSC New Mexico	Solar	NM	
+Santa Teresa	5	500	RDI	Dynegy	NG	NM	
+Farmington	5	20	RDI	Navajo Tribal Utility Authority	NG	NM	
+Waiting for Fax	
+Status	
+1	5	(blank)	Grand Total	
+140	1407	1547	klande:
+FV - Low Prob
+Region	Plant Name	Company Name	Summer Capacity	Winter Capacity	Plant State	Plant NERC Region	Plant NERC Sub-Region	Planned Online Year	Prime Fuel Description	Record Type (A, F)	
+CA	AES South City	AES South City, L.L.C.	170	170	CA	WSCC	CANMX	2001	NATURAL GAS	FUTURE	
+CA	Antelope Valley	AES Corp.	500	500	CA	WSCC	CANMX	2050	NATURAL GAS	FUTURE	
+RO	Arapahoe	PSC of Colorado	74	74	CO	WSCC	RMPA	2000	NATURAL GAS	FUTURE	
+NW	Bearcreek	Composite Power Corp.	500	500	MT	WSCC	NWPA	2004	COAL (GENERIC)	FUTURE	
+SW	Belen	Cobisa Corp.	220	220	NM	WSCC	AZNMNV	2003	NATURAL GAS	FUTURE	
+NW	Blythe Energy Power Plant Project	Summit Energy Group, Ltd.	300	300	CA	WSCC	CANMX	2001	NATURAL GAS	FUTURE	
+RO	Brush	Fulton Cogeneration Associates, L.P.	365	365	CO	WSCC	RMPA	2000	NATURAL GAS	FUTURE	
+SW	Buckeye	Duke Energy Power Services, L.L.C.	550	550	AZ	WSCC	AZNMNV	2003	NATURAL GAS	FUTURE	
+NW	Cancarb	TransCanada Power, L.P.	38	38	AB	WSCCC	NWPACN	2000	WASTE HEAT	FUTURE	
+SW	Carlin	Coastal Power Co.	500	500	NV	WSCC	NWPA	2050	NATURAL GAS	FUTURE	
+SW	Clark County Pump Storage	Blue Diamond SPS Co., Inc.	150	150	NV	WSCC	NWPA	2004	WATER	FUTURE	
+NW	Clark County Santitation District	NTS Development Corp.	30	30	NV	WSCC	AZNMNV	2002	WASTE (GENERIC)	FUTURE	
+SW	Cobisa-Person Power Project	MCNIC Power Co.	140	140	NM	WSCC	AZNMNV	2000	NATURAL GAS	FUTURE	
+NW	Cold Lake	TransAlta Energy Corp.	220	220	AB	WSCCC	NWPACN	2001	NATURAL GAS	FUTURE	
+CA	Contra Costa	Southern Energy, Inc.	530	530	CA	WSCC	CANMX	2003	NATURAL GAS	FUTURE	
+NW	Cowlitz Cogneration	Weyerhaeuser Co.	405	405	WA	WSCC	NWPA	2050	NATURAL GAS	FUTURE	
+NW	Coyote Springs II	Portland General Electric Co.	231	231	OR	WSCC	NWPA	2050	NATURAL GAS	FUTURE	
+NW	Creston (NWPE)	Northwest Power Enterprise, Inc.	838	838	WA	WSCCC	NWPACN	2003	NATURAL GAS	FUTURE	
+NW	Crow Tribe Coal Reserve	Westmoreland Energy, Inc.	260	260	MT	WSCC	NWPA	2002	COAL (GENERIC)	FUTURE	
+CA	Delta Energy Center	Bechtel Generating Co., Inc.	440	440	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+CA	Delta Energy Center	Calpine Corp.	440	440	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+SW	Deming Power Partners	Deming Power Partners I	250	250	NM	WSCC	AZNMNV	2050	NATURAL GAS	FUTURE	
+SW	Desert Basin	Reliant Energy Power Generation, Inc.	500	500	AZ	WSCC	AZNMNV	2001	NATURAL GAS	FUTURE	
+RO	DIA Power Project	North American Power Group	150	150	CO	WSCC	RMPA	2001	NATURAL GAS	FUTURE	
+NW	Drywood Power	Canadian Gas & Electric Company, Ltd.	6	6	AB	WSCCC	NWPACN	1999	NATURAL GAS	FUTURE	
+NW	Dunvegan Hydro	Glacier Power, Ltd.	40	40	AB	WSCCC	NWPACN	2001	WATER	FUTURE	
+SW	El Dorado Energy Center	Reliant Energy Power Generation, Inc.	246	246	NV	WSCC	AZNMNV	2000	NATURAL GAS	FUTURE	
+SW	El Dorado Energy Center	Sempra Energy	246	246	NV	WSCC	AZNMNV	2000	NATURAL GAS	FUTURE	
+CA	Elk Hills Power Project	Occidental Energy Ventures Co.	250	250	CA	WSCC	CANMX	2001	NATURAL GAS	FUTURE	
+CA	Elk Hills Power Project	Sempra Energy Resources	250	250	CA	WSCC	CANMX	2001	NATURAL GAS	FUTURE	
+CA	EM-ONE Power Station	Sunlaw Energy Partners I, L.P.	800	800	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+NW	Everett Delta Power Project	FPL Group, Inc.	248	248	WA	WSCCC	NWPACN	2001	NATURAL GAS	FUTURE	
+SW	Farmington	Navajo Tribal Utility Authority	20	20	NM	WSCC	AZNMNV	2001	NATURAL GAS	FUTURE	
+NW	Frederickson - Tenaska WA Partners II	Bonneville Power Administration	248	248	WA	WSCC	NWPA	2050	NATURAL GAS	FUTURE	
+RO	Front Range Power - Nixon	Coastal Power Co.	240	240	CO	WSCC	RMPA	2002	NATURAL GAS	FUTURE	
+RO	Front Range Power - Nixon	Colorado Springs Utilities	240	240	CO	WSCC	RMPA	2002	NATURAL GAS	FUTURE	
+RO	Ft Lupton Cogen	Front Range Power Co., L.L.C.	160	160	CO	WSCC	RMPA	2000	NATURAL GAS	FUTURE	
+SW	Gila Bend	Industrial Power Technology	375	375	AZ	WSCC	AZNMNV	2003	NATURAL GAS	FUTURE	
+SW	Gila Bend	Power Development Enterprises	375	375	AZ	WSCC	AZNMNV	2003	NATURAL GAS	FUTURE	
+NW	Glacier International Power	Native American Economic Enterprises, Inc. (NAEE)	81.2	81.2	MT	WSCC	NWPA	2000	NATURAL GAS	FUTURE	
+NW	Glacier International Power	Adair International Oil & Gas	78.8	78.8	MT	WSCC	NWPA	2000	NATURAL GAS	FUTURE	
+SW	Griffith Energy Project	Duke Energy North America	260	260	AZ	WSCC	AZNMNV	2001	NATURAL GAS	FUTURE	
+SW	Griffith Energy Project	PP&L Global, Inc.	260	260	AZ	WSCC	AZNMNV	2001	NATURAL GAS	FUTURE	
+SW	Harquahala Valley	PG&E Generating	1000	1000	AZ	WSCC	AZNMNV	2003	NATURAL GAS	FUTURE	
+NW	Hermiston Power Project	Ida West Energy Company	298	298	OR	WSCC	NWPA	2001	NATURAL GAS	FUTURE	
+NW	Hermiston Power Project	TransCanada PipeLine USA, Ltd.	238	238	OR	WSCC	NWPA	2001	NATURAL GAS	FUTURE	
+CA	High Desert	Constellation Energy, Inc.	360	360	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+CA	High Desert	Inland Energy	340	340	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+NW	Island Cogeneration Project	Fletcher Challenge Energy Canada, Inc.	144	144	BC	WSCCC	NWPACN	2000	NATURAL GAS	FUTURE	
+NW	Island Cogeneration Project	Westcoast Power, Inc.	96	96	BC	WSCCC	NWPACN	2000	NATURAL GAS	FUTURE	
+NW	Joffre Cogeneration	ATCO Power Canada, Ltd.	210	210	AB	WSCCC	NWPACN	2000	NATURAL GAS	FUTURE	
+NW	Joffre Cogeneration	EPCOR Power Development Corp.	160	160	AB	WSCCC	NWPACN	2000	NATURAL GAS	FUTURE	
+NW	Klamath Cogen Project	Klamath Falls, City of	464	464	OR	WSCC	NWPA	2001	NATURAL GAS	FUTURE	
+NW	Kootenai Falls Hydroelectric	Northern Lights, Inc.	144	144	MT	WSCC	NWPA	2050	WATER	FUTURE	
+SW	Kyrene Generating Station	Dynegy, Inc.	272.25	272.25	AZ	WSCC	AZNMNV	2002	NATURAL GAS	FUTURE	
+SW	Kyrene Generating Station	NRG Energy, Inc.	272.25	272.25	AZ	WSCC	AZNMNV	2002	NATURAL GAS	FUTURE	
+SW	Kyrene Generating Station	Salt River Project	272.25	272.25	AZ	WSCC	AZNMNV	2002	NATURAL GAS	FUTURE	
+CA	La Paloma	PG&E Generating	1048	1048	CA	WSCC	CANMX	2003	NATURAL GAS	FUTURE	
+CA	Long Beach District Energy Facility	Enron Capital & Trade Resources Corp.	500	500	CA	WSCC	CANMX	2004	NATURAL GAS	FUTURE	
+CA	Los Medanos Energy Center	Calpine Corp.	510	510	CA	WSCC	CANMX	2001	NATURAL GAS	FUTURE	
+CA	Metcalf Energy Center	Bechtel Enterprises, Inc.	300	300	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+CA	Metcalf Energy Center	Calpine Corp.	300	300	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+RO	Metro Wastewater Cogen	Denver Metropolitan Wastewater Reclamation Distric	5	5	CO	WSCC	RMPA	2000	UNKNOWN	FUTURE	
+RO	Metro Wastewater Cogen	Trigen-Colorado Energy Corp.	5	5	CO	WSCC	RMPA	2000	UNKNOWN	FUTURE	
+CA	Midway Sunset Cogen West	Edison International	250	250	CA	WSCC	CANMX	2050	NATURAL GAS	FUTURE	
+CA	Midway Sunset Cogen West	AERA Energy, L.L.C.	250	250	CA	WSCC	CANMX	2050	NATURAL GAS	FUTURE	
+NW	Millennium Cogeneration Project	TransAlta Energy Corp.	230	230	AB	WSCCC	NWPACN	1999	NATURAL GAS	FUTURE	
+CA	Moss Landing	Duke Energy Power Services, L.L.C.	73	73	CA	WSCC	CANMX	2003	NATURAL GAS	FUTURE	
+NW	Muskeg River Cogeneration	ATCO Power Canada, Ltd.	170	170	AB	WSCCC	NWPACN	2002	NATURAL GAS	FUTURE	
+SW	Nevada Green Energy Project	Composite Power Corp.	50	50	NV	WSCC	AZNMNV	2003	OTHER	FUTURE	
+CA	Newark Energy Center	Bechtel Enterprises, Inc.	300	300	CA	WSCC	CANMX	2003	NATURAL GAS	FUTURE	
+CA	Newark Energy Center	Calpine Corp.	300	300	CA	WSCC	CANMX	2003	NATURAL GAS	FUTURE	
+NW	Newberry Crater Project	Northwest Geothermal Co.	30	30	OR	WSCC	NWPA	2050	GEOTHERMAL STEAM	FUTURE	
+NW	Oldman	ATCO Energen, Ltd.	32	32	AB	WSCCC	NWPACN	2001	WATER	FUTURE	
+CA	Otay Mesa	PG&E Generating	510	510	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+SW	Panda Gila River	Panda Energy International, Inc.	2000	2000	AZ	WSCC	AZNMNV	2002	NATURAL GAS	FUTURE	
+CA	Pastoria Power Project	Pastoria Power Project, L.L.C.	960	960	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+NW	Pingston Creek	Canadian Hydro Developers, Inc.	12.5	12.5	BC	WSCCC	NWPACN	2000	WATER	FUTURE	
+NW	Pingston Creek	Great Lakes Power, Ltd.	12.5	12.5	BC	WSCCC	NWPACN	2000	WATER	FUTURE	
+NW	Port Alberni Cogeneration	ATCO Power Canada, Ltd.	120	120	BC	WSCCC	NWPACN	2000	NATURAL GAS	FUTURE	
+NW	Port Alberni Cogeneration	PanCanadian Petroleum, Ltd.	120	120	BC	WSCCC	NWPACN	2000	NATURAL GAS	FUTURE	
+CA	Potrero	Southern Energy, Inc.	520	520	CA	WSCC	CANMX	2003	NATURAL GAS	FUTURE	
+NW	Quail Creek Hydro Plant #2	Washington County Water Conservancy District	3.6	3.6	UT	WSCC	NWPA	2001	WATER	FUTURE	
+NW	Rathdrum (Cogentrix)	Avista Power, L.L.C.	135	135	ID	WSCC	NWPA	2001	NATURAL GAS	FUTURE	
+NW	Rathdrum (Cogentrix)	Cogentrix, Inc.	135	135	ID	WSCC	NWPA	2001	NATURAL GAS	FUTURE	
+SW	Red Hawk	Pinnacle West Energy	530	530	AZ	WSCC	AZNMNV	2003	NATURAL GAS	FUTURE	
+CA	Redondo Beach	AES Redondo Beach, L.L.C.	700	700	CA	WSCC	CANMX	2004	UNKNOWN	FUTURE	
+NW	Rossdale	Edmonton Power, Inc.	241	241	AB	WSCCC	NWPACN	2002	NATURAL GAS	FUTURE	
+SW	Santa Teresa	Dynegy Power Corp.	500	500	NM	WSCC	AZNMNV	2050	NATURAL GAS	FUTURE	
+NW	Satsop Combined Cycle	Energy Northwest	454	454	WA	WSCC	NWPA	2050	NATURAL GAS	FUTURE	
+SW	South Point Power Plant	Calpine Mojave	500	500	AZ	WSCC	AZNMNV	2000	NATURAL GAS	FUTURE	
+NW	Sumas 2 Generation Facility	National Energy Systems Co. (NESCO)	734	734	WA	WSCC	NWPA	2002	NATURAL GAS	FUTURE	
+CA	Sunrise Cogeneration & Power Project	Texaco Global Gas & Power	320	320	CA	WSCC	CANMX	2001	NATURAL GAS	FUTURE	
+CA	Sutter Power Plant	Calpine Corp.	500	500	CA	WSCC	CANMX	2000	NATURAL GAS	FUTURE	
+NW	Taylor Hydroelectric Plant	Canadian Hydro Developers, Inc.	6.38	6.38	AB	WSCCC	NWPACN	2000	WATER	FUTURE	
+NW	Taylor Hydroelectric Plant	EPCOR Power Development Corp.	6.38	6.38	AB	WSCCC	NWPACN	2000	WATER	FUTURE	
+CA	Telephone Flat	California Energy General Corp.	44	44	CA	WSCC	NWPA	2001	GEOTHERMAL STEAM	FUTURE	
+CA	Three Mountain Power	Ogden Power Pacific, Inc.	500	500	CA	WSCC	CANMX	2002	NATURAL GAS	FUTURE	
+CA	Tracy	Tri-Valley Power Corp.	25	25	CA	WSCC	CANMX	2050	NATURAL GAS	FUTURE	
+NW	Two Elks Plant	Two Elk Power	50	50	WY	WSCC	RMPA	2002	WASTE COAL	FUTURE	
+NW	Umatilla Generating	PG&E Generating	482	482	OR	WSCC	NWPA	2050	NATURAL GAS	FUTURE	
+SW	West Phoenix	Calpine Corp.	130	130	AZ	WSCC	AZNMNV	2001	NATURAL GAS	FUTURE	
+NW	Wygen No. 1	Black Hills Corp.	80	80	WY	WSCC	RMPA	2002	COAL (GENERIC)	FUTURE	
+NW	Chehalis Power Station	Tractabel Power, Inc.	460	460	WA	WSCC	NWPA	
+CA	California	Adair International Oil & Gas	500	500	CA	WSCC	CANMX	
+SW	New Mexico	Adair International Oil & Gas	300	300	NM	WSCC	AZNMNV	
+CA	Pioneer Power Plant Project	Bock Energy	260	260	CA	WSCC	CANMX	
+NW	St. Helen's Boise Cascade Project	Oregon Energy Company	100	100	OR	WSCC	NWPA	
+CA	Medecine Lake	Calpine Siskiyou Geothermal Partners	45	45	CA	WSCC	CANMX	
+CA	Pittsburg (Dow Chemical Co)	Calpine Corp.	20	20	CA	WSCC	CANMX	
+32865	
+33379	Company	Plant	MW	Unit	Fuel	CompDate	City	State	NERC/Reg	Status	Notes	Contact: Jimmy Kow  (212) 686-6808	
+Coastal [Fulton cogeneration Associates]	Manchief	  265 	NG	200005	Brush	CO	WSCC	CON	
+Cobisa Person	Person	  140 	CT	NG	200005	Albuquerque	NM	WSCC	CON	MCN Energy partner with Cobisa.  Used to be US Gen. For sale to PNM - on schedule for summer, but unsure of exact commercial date	
+Public Service of Colorado	Valmont & Arapahoe repowering	  111 	NG	200005	Boulder & Denver	CO	WSCC	CON	37 Mw in Boulder, 74 in Denver -finished turbines will be SOLD to highest bidder, scheduled in May 1st, but will be likely before June [called 1/31/00]	
+IEP	Medicine Bow	  - 0 	WT	WND	200099	Rock River	WY	WSCC	CNL	
+Tenaska/BPA	Tenaska/Wash Partners II	  - 0 	NG	200099	Tacoma	WA	WSCC	CNL	BPA took over, sold turbines 240 mw capacity to CMS for $30 million ($125/kw)	
+Calpine	South Point Power Plant [Mojave]	  545 	CT	NG	200103	Fort Mojave [Bullhead City]	AZ	WSCC	CON	Construction started in May-99.  Ouput to be sold to CA, NV and AZ.  Approval received from BIA. Should be finished 3/01 added 5 mg to 545mg.	
+Calpine	Sutter County	  545 	CC	NG	200106	Yuba City	CA	WSCC	CON	under construction. Changed from 500 to 545 MG.	
+New Century Energy	Ft St Vrain - Phase III	  235 	NG	200103	Ft St Vrain	CO	WSCC	PLN	Third stage of nuke plant conversion.  PSC to decide this fall.	
+Klamath Falls / Pacificorp	Klamath Cogen	  500 	CG	NG	200107	Klamath Falls	OR	WSCC	CON	Increased to 500 April 17, 1998 - B&V is EPC.  40 yr lease signed with Collins Wood products for siting 3/99. Completion date chaged to 7/2001 from 5/2001,	
+KN Energy	  - 0 	CC	NG	200105	Denver	CO	WSCC	CNL	Plan to build plants contiguous to pipeline, was 500 MW	
+New Century Energy	  112 	GT	NG	200105	Las Cruces	NM	WSCC	PLN	moving simple cycle turbine from Hobbs NM [SPP] to WSCC	
+Texaco	Sunrise Cogen	  320 	CG	NG	200105	Fellows	CA	WSCC	PLN	Construction to begin Feb 2000.  Application accepted Feb '99 by CEC.	
+APS/Calpine	West Phoenix Repower 1	  70 	CC	NG	West Phoenix	AZ	WSCC	CLN	Adding to existing simple cycle.  Total to be 130 MW. Project on hold.	
+Calpine /City of Pittsburgh	Los Medanos [ formerly Pittsburgh DEF] 	  500 	CC	NG	200106	Pittsburgh	CA	WSCC	CON	85% to PX, 15% to mill, Calpine acquired plans from Enron	
+FPL Energy	Everett Delta	  248 	CC	NG	200106	Everett	WA	WSCC	PLN	Formerly (stalled) NWPE 220 MW project.  FPL bought rights in 1/99.  Construction to begin end 99/early 2000.	
+HIPG	Desert Basin Gnrtng	  500 	CC	NG	200106	Casa Grande City	AZ	WSCC	PLN	Construction to start 3qtr 99.  40 yr sale/leaseback structure	
+US Gen [PG&E]	La Paloma	  1,048 	CC	NG	200107	McKittrick	CA	WSCC	CON	4x250 turbines broke ground on 3/8/00	
+Coastal	Elko	  200 	? CC	NG	200109	Elko	NV	WSCC	PLN	MW Daily listed as 500 MW	
+Duke Energy / NP Energy	Griffith Energy Project	  650 	CC	NG	200110	Kingman	AZ	WSCC	CON	NP Energy to market output.  520 nominal output, Duke acquired 50% of project from PP&L	
+Cogentrix / Avista	Rathdrum	  270 	CC	NG	200111	Rathdrum	ID	WSCC	PLN	Hope to finance by 6/99, begin construction by 11/99, complete by 11/01.  Power sold to Avista.  	
+CalEnergy	Telephone Flat	  48 	GEO	200199	Modoc Nat Forest	CA	WSCC	PLN	
+Calpine	Fort Mohave	NG	200199	Needles	CA	WSCC	PLN	This is the same plant as the South Point Power Plant in AZ. It si on the border of Ca & Az per Meredith at Calpine.	
+KN Energy	Fort Lupton	  160 	NG	200199	Fort Lupton	CO	WSCC	PLN	in response to RFP from PSCo, currently on hold due to air permits	
+North American Power	Two Elk CT Waste	  240 	CT	Coal	200199	Two Elk	WY	WSCC	Article in MW Daily	
+Southern Co	Contra Costa repowering	  530 	CC	NG	200199	CA	WSCC	PLN	increase by 530 to 1,210 MW	
+Southern Co	Potrero repowering	  520 	CC	NG	200199	CA	WSCC	PLN	increase by 520 to 880 MW	
+Tractebel	Chehalis Power	  460 	CC	NG	200199	Chehalis	WA	WSCC	PLN	SC approved	
+Calpine/Bechtel JV	Newark Energy Center	  600 	CC	NG	200201	Newark	CA	WSCC	PLN	Construction to begin end 2000.	
+Sunlaw Cogen Partner	EM-One	  850 	NG	200201	Vernon	CA	WSCC	PLN	
+Calpine	Modoc	  50 	ST	GEO	200203	Modoc Nat Forest	CA	WSCC	PLN	
+Constellation	High Desert Power Pro	  720 	CC	NG	200204	Victorville	CA	WSCC	PLN	820 MW option no longer under consideration. Likely to be delayed	
+Calpine	Delta Energy Center	  535 	NG	200206	Pittsburgh	CA	WSCC	PLN	500 to 700 MW size, construction starts 2000 at Dow Chemical	
+Colorado Springs Utilities	Ray Nixon	  400 	CC	NG	200206	Colorado Springs	CO	WSCC	PLN	Second phase.  One half sold to market through Coastal	
+North American Power	DIA Cogen	  150 	CT	NG	200206	Denver	CO	WSCC	PLN	2X150 each unit- simple cycle- Denver International airport (initial phase)- origionally 6/2000	
+Pastoria (Tejon Ranch)	Pastoria Power Project	  960 	CC	NG	200206	Bakersfield	CA	WSCC	PLN	Gas to come from Kern pipe.  Apllication to be filed in May.  4x200+ MW turbines	
+Calpine/Bechtel JV	Metcalf Energy Center	  600 	CC	NG	200207	San Jose	CA	WSCC	PLN	Licensing to be concluded by Sept 2000.	
+Duke Energy	Arlington Valley	  550 	CC	NG	200207	AZ	WSCC	PLN	to be built 2 miles from Palo Verde Nuclear Station	
+Dynergy / NRG Energy	Salt River [Kyrene Generating station]	  500 	CC	NG	200207	Phoenix	AZ	WSCC	PLN	construction to begin in 2000 [Salt River Project- division of AZ state, 3r largest public utility in US- teamed with Dynergy&NRG] - 30% of power for utility	
+US Gen [PG&E]	Otay Mesa Generating project	  510 	CC	NG	200207	Otay Mesa	CA	WSCC	PLN	PGE claims to be on schedule despite siting delays	
+Calpine	Hermiston	  536 	CC	NG	200208	Hermiston	OR	WSCC	PLN	Calpine bought rights from Ida-West.  ABB GT24 turbines., SC granted	
+APS/Calpine	West Phoenix Repower 2	  500 	CC	NG	200212	West Phoenix	AZ	WSCC	PLN	Repower existing simple cycle units.  Total to be 500 MW.	
+Black Hills Corp	Wygen 1	  80 	Coal	200299	Gillette	WY	WSCC	PLN	air permits received, check www.blackhillscorp.com/ due in spring 2002	
+FN Smith	Shivwits Band Power	  215 	NG	200299	St George	UT	WSCC	PLN	100 mi Northwest of Las Vegas (in NV?)	
+Ogden Power Pacific	Three Mountain Power	  500 	CC	NG	200299	Burney	CA	WSCC	PLN	Ogden operates a 10 MW waste adjacent to facility	
+Panda Energy	Panda Gila LP 1of2	  1,000 	CC	NG	200299	Phoenix	AZ	WSCC	PLN	construction to begin late 2000	
+Summit	Blythe Energy PP	  520 	CC	NG	200299	Blythe	CA	WSCC	PLN	changed from 400mw to 520 mw. Currently under review.	
+Coastal / Colorado Springs Utilities	  480 	NG	200301	CO	WSCC	PLN	360 MW of capacity will be available for buyers	
+US Gen [PG&E]	Harquahala Generating Project	  1,000 	CC	NG	200303	Maricopa County	AZ	WSCC	PLN	interconnect expect with Palo Verde nuclear transmission switchyard	
+North American Power	DIA Cogen	  150 	CT	NG	200306	Denver	CO	WSCC	PLN	2X150 each unit- simple cycle- Denver International airport (initial phase)- origionally 6/2000	
+Cobisa 	Belen	  220 	NG	200307	Belen	NM	WSCC	PLN	under negotiations w/ city; construction starting spring 2001	
+Power Development / Industrial Power Technology	  600 	NG	200312	Gila Bend	AZ	WSCC	PLN	no indication when construction begins	
+Northwest Power Co	Starbuck Power Facility	  1,100 	NG	200399	Starbuck	WA	WSCC	PLN	
+Northwest Power Co	Northwest Regional PF	  838 	NG	200399	Spokane	WA	WSCC	PLN	
+Panda Energy	Panda Gila LP 2of2	  1,000 	CC	NG	200399	Phoenix	AZ	WSCC	PLN	construction to begin late 2000	
+Pinnacle West Energy	  130 	CC	NG	200399	West Phoenix	AZ	WSCC	PLN	
+Pinnacle West Energy	43rd Avenue plant	  530 	CC	NG	200399	AZ	WSCC	PLN	similar to Red Hawk Plant's turbines	
+Composite Power Corp	Eastern Montana Steam	  2,000 	ST	Coal	200599	Carbon county	MT	WSCC	PLN	4x500 MW for sale in Wisconsin.  Uses new transmission technology.  Permits pending.  Transmission to cost 850 million.	
+Pinnacle West Energy	Red Hawk Plant	  2,120 	CC	NG	200799	AZ	WSCC	PLN	4x530MW, first turbine online 2003	
+Adair Intl O&G	  540 	999999	CA	WSCC	PLN	plant announcement sometime later- still considering	
+Adair Intl O&G	  300 	NG	999999	NM	WSCC	PLN	no set date yet	
+Adair Intl O&G/Blackfeet	Glacier Internatioal Power	  160 	CC	NG	999999	Blackfeet Reservation	MT	WSCC	PLN	no set date yet	
+AES	South City	  550 	CC	NG	999999	South San Fran	CA	WSCC	PLN	To file in Feb 99	
+AES	Antelope	  1,100 	CC	NG	999999	California City	CA	WSCC	PLN	To file in Feb 99	
+AES	Rendondo Beach	  750 	CC	NG	999999	Redondo Beach	CA	WSCC	PLN	Repower existing site purchased from SoCalEd, could be 1,100 MW.	
+Arizona Independent Pwr	White Tank	  1,250 	PS	WAT	999999	Maricopa	AZ	WSCC	PLN	Just applied to FERC for preliminary permit.  Pumped storage	
+Bock Energy	Pioneer / Livingston	  260 	CC	NG	999999	Livingston	CA	WSCC	PLN	Demo of the GE Kalina technology. Project suspended in March-99.  Was due in 2000.	
+Calpine	Gillette	  80 	Coal	999999	Gillette	WY	WSCC	
+Composite Power Corp	Nevada Geen Energy	999999	Amargosa Valley	NV	WSCC	PLN	1,000 MW planned in various phases	
+Composite Power Corp	Nr Ore Pumped Strg	  - 0 	WAT	999999	The Dalles	OR	WSCC	PLN	Part of large Montana coal project. 250 MW	
+Composite Power Corp	Hanford Wind Power	  - 0 	WND	999999	Hanford	WA	WSCC	PLN	Part of large Montana coal project. 250 MW	
+Deming Power Partners	Deming	  217 	GT	NG	999999	Deming	NM	WSCC	PLN	
+Duke Energy	Morro Bay	  530 	CC	NG	999999	Morro Bay	CA	WSCC	PLN	retiring units 1&2, postponed upgrades temporarily. Application has been temporarily withdrawn.	
+Duke Energy	Moss Landing	  1,220 	CC	NG	999999	Moss Landing	CA	WSCC	PLN	Permits expected in mid 2000 at which time construction to begin. Currently under review by the CEC.	
+Enron Capital & Trade	Pittsburg District Enegy	  500 	NG	999999	Pittsburgh	CA	WSCC	PLN	
+Enron Capital & Trade	Tejon Tehachapi J/V Merchant	  750 	CC	NG	999999	Tejon Ranch	CA	WSCC	PLN	Could be up to 1000 MW.	
+Independent Energy	  200 	CT	NG	999999	CO	WSCC	PLN	
+Midway Sunset Cogen	Midway Sunset Cogen	  500 	CG	NG	999999	Fellows	CA	WSCC	PLN	To file in '99.  Adjacent to existing PG&E 200 MW QF. J/V is Mission, Shell/Mobil.  Application amended, trading off silent operations for low nox burner installation	
+Mission / Weyerhauser	Cowlitz Cogen	  395 	CC	NG	999999	longview	WA	WSCC	PLN	SC granted	
+NESCO Enterprises	Sumas Energy 2	  710 	CC	NG	999999	Sumas	WA	WSCC	PLN	To be announced early 99.  WAEFSB issued RFP to hire consultants for review of this and subsequent energy projects in Nov 98.  2x355 MW.  As proposed, would take cooling water from BC - some opposition from local Labor.	
+Portland General	Coyote Springs Phase 2	  231 	NG	999999	Boardman	OR	WSCC	PLN	Plan to build filed under old need-for-power law.  Must pay 2.5 million to climate Trust if built., SC approved	
+PowerLink	Columbia County Cogen	  440 	NG	999999	St Helens	OR	WSCC	PLN	NOI Extended to 2/98	
+Salt River Project	Santan Generating Station	  825 	CC	NG	999999	AZ	WSCC	PLN	
+Sempra / Oxy	Elk Hills	  500 	CC	NG	999999	Bakersfield	CA	WSCC	PLN	STILL under review by CA, competing for site	
+Tenaska Power Part	Malin/Bonanza	  214 	NG	999999	Malin	OR	WSCC	PLN	NOI Expired	
+US Gen	Fellows	  340 	NG	999999	Bakersfield	CA	WSCC	PLN	
+US Gen	Umatilla	  481 	NG	999999	Umatilla	OR	WSCC	PLN	On hold until market friendlier, acording to OR EFSB	
+US Gen	Sumas	  - 0 	CC	NG	999999	Sumas	WA	WSCC	CNL	No longer persuing project.  Was 240 MW	
+WPPSS	Satsop	  500 	CC	NG	999999	Satsop	WA	WSCC	PLN	SC approved	
+WWP	  250 	NG	999999	WA	WSCC	PLN	To be announced in mid-Dec.	
+Bechtel/Calpine	Delta Energy	  880 	NG	200206	Pittsburg	CA	WSCC	PLN	
+Southern Energy	Apex Industrial Park	  1,000 	CC	NG	200399	Las Vegas	NV	WSCC	PLN	
+Continental Energy Services	Butte-Silver Bow County	  230 	NG	999999	Butte	MT	WSCC	PLN	submitted bid to acquire 20 acres of land	
+WSCC Capacity Additions (000 MW)	
+7/1/1999	7/1/2000	7/1/2001	
+6/30/2000	6/30/2001	6/30/2002	
+CA	0.0	1.6	1.6	
+AZ/NM/NV	0.6	1.1	0.7	
+RMPA	0.4	0.3	0.6	
+NWPP	0.0	0.5	0.5	
+US	1.0	3.5	3.4	
+CFE	0.0	0.5	0.0	
+BC	0.1	0.2	0.1	
+AB	0.8	0.3	0.2	
+Total	1.9	4.5	3.7	
+Available Resources (000 MW)	
+7/1/1999	7/1/2000	7/1/2001	7/1/2002	
+CA	54.0	54.0	55.6	57.2	
+AZ/NM/NV	20.1	20.7	21.8	22.5	
+RMPA	10.3	10.7	11.0	11.6	
+NWPP	46.4	46.4	46.9	47.4	
+WSCC US	130.8	131.8	135.3	138.7	
+CFE	1.5	1.5	2.0	2.0	
+BC	11.8	11.9	12.1	12.2	
+AB	8.0	8.8	9.1	9.3	
+Total	152.1	154.0	158.5	162.2	
+Summer Peak Demand (000 MW)	
+1999	2000	2001	2002	
+CA	53.0	54.7	56.0	56.8	
+AZ/NM/NV	20.5	21.4	22.2	22.9	
+RMPA	8.1	8.4	8.7	8.9	
+NWPP	34.0	35.0	35.7	36.3	
+WSCC US	115.6	119.5	122.6	124.9	
+CFE	1.5	1.6	1.7	1.8	
+BC	7.5	7.7	7.9	8.1	
+AB	6.8	7.0	7.2	7.4	
+Total	131.4	135.8	139.4	142.2	
+Average Energy Demand (000 MW)	
+1999	2000	2001	2002	
+CA	31.6	33.1	34.1	35.0	
+AZ/NM/NV	11.8	12.4	12.9	13.3	
+RMPA	5.5	5.8	6.0	6.2	
+NWPP	27.3	27.9	28.4	28.8	
+WSCC US	76.2	79.2	81.4	83.3	
+CFE	0.8	0.9	1.0	1.1	
+BC	6.8	7.0	7.2	7.4	
+AB	5.8	6.0	6.2	6.4	
+Total	89.6	93.1	95.8	98.2	
